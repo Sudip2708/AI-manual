@@ -1,3 +1,5 @@
+![](https://thaiconfig.com/wp-content/uploads/2023/03/What-is-AI-Artificial-Intelligence.png)
+
 # Manuál pro konverzační AI
 
 Vítejte v repozitáři **Manuál pro konverzační AI**!
