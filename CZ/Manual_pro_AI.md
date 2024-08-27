@@ -65,7 +65,7 @@ aby mu porozuměli i lidé, kteří o AI dosud nic neslyšeli, doporučuji si ne
   - [9.c Podrobný popis procesu trénování neuronové sítě pro rozpoznávání obrázků](#9c-podrobný-popis-procesu-trénování-neuronové-sítě-pro-rozpoznávání-obrázků)
   - [9.d Podrobný popis procesu učení konverzačních AI](#9d-podrobný-popis-procesu-učení-konverzačních-ai)
   - [9.e Regulace AI v Evropě](#9e-regulace-ai-v-evropě)
-  - [9.f Jak vznikl tento manuál](#9)
+  - [9.f Jak vznikl tento manuál](#9f-jak-vznikl-tento-manuál)
 
 ---
 ### Úvod k manuálu
