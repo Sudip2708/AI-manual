@@ -12,9 +12,6 @@ Obsáhlejší verze, která se snaží věnovat tématu AI v širším kontextu 
 
 ---
 
----
-
-
 ###### For English-Speaking Users:
 
 

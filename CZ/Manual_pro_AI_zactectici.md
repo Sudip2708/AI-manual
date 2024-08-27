@@ -702,5 +702,5 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 - Napsal jsem tento text, ale přijde mi příliš dlouhý. Můžeš ho zkrátit tak, aby tam vše podstatné zůstalo?
 - Jak správně formulovat životopis a žádost o práci pro tento inzerát?
 
-[*Zpět na obsah*](#Obsah)  [*Odkaz na hlavní manuál*](Manual_pro_AI.md)
+[*Zpět na obsah*](#Obsah) • [*Odkaz na hlavní manuál*](Manual_pro_AI.md)
 

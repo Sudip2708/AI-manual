@@ -693,4 +693,4 @@ August 18, 2024 Sudip2708
 - I wrote this text, but it seems too long. Could you shorten it while keeping all the essential information?
 - How should I properly format a resume and cover letter for this job posting?
 
-[*Back to Table of Contents*](#Contents)  [*Link to Main Manual*](Manual_for_AI.md)
+[*Back to Table of Contents*](#Contents) • [*Link to Main Manual*](Manual_for_AI.md)

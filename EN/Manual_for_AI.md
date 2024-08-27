@@ -1584,9 +1584,9 @@ My role was primarily to coordinate and oversee the entire process.
 The texts are intended for Czech-speaking users, and I have included this section 
 with links mainly to provide a record of the individual steps and days.)
 
-[August 16, 2024 - Creation of the outline and initial drafts of texts](ChatGPT/24-08-16.md)  
-[August 17, 2024 - Processing and editing the obtained texts](ChatGPT/24-08-17.md)  
-[August 18, 2024 - Creation of texts for the beginner's manual](ChatGPT/24-08-18.md)  
+[August 16, 2024 - Creation of the outline and initial drafts of texts](../ChatGPT/24-08-16.md)  
+[August 17, 2024 - Processing and editing the obtained texts](./ChatGPT/24-08-17.md)  
+[August 18, 2024 - Creation of texts for the beginner's manual](https://github.com/Sudip2708/AI-manual/blob/main/ChatGPT/24-08-18.md)  
 [August 19, 2024 - Completion of texts and grammar correction for the beginner's manual](ChatGPT/24-08-19.md)  
 [August 20, 2024 - Final grammar correction and coherence check for the beginner's manual](ChatGPT/24-08-20.md)  
 [August 24, 2024 - Addition of texts for the main manual](ChatGPT/24-08-24.md)  
@@ -1606,7 +1606,7 @@ who contributed to the advancement of artificial intelligence (not just ChatGPT)
 Thank you also to all of you for reading and for any feedback you may provide, 
 and I wish you success in your life with AI as your helpful assistant.
 
-[*Back to Table of Contents*](#contents)
+[*Back to Contents*](#contents)
 
 ---
 
