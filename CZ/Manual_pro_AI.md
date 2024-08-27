@@ -65,7 +65,7 @@ aby mu porozuměli i lidé, kteří o AI dosud nic neslyšeli, doporučuji si ne
   - [9.c Podrobný popis procesu trénování neuronové sítě pro rozpoznávání obrázků](#9c-podrobný-popis-procesu-trénování-neuronové-sítě-pro-rozpoznávání-obrázků)
   - [9.d Podrobný popis procesu učení konverzačních AI](#9d-podrobný-popis-procesu-učení-konverzačních-ai)
   - [9.e Regulace AI v Evropě](#9e-regulace-ai-v-evropě)
-  - [9.f Jak vznikl tento manuál](#9f-jak-vznikl-tento-manuál)
+  - [9.f Jak vznikl tento manuál](#9)
 
 ---
 ### Úvod k manuálu
@@ -1634,47 +1634,7 @@ Na těchto stránkách najdete podrobnější informace o jednotlivých ustanove
 
 [*Zpět na obsah*](#obsah)
 
----
-
-Opravil jsem několik drobných gramatických chyb a vylepšil styl pro větší plynulost a jasnost. Zde jsou hlavní úpravy:
-
-1. **„Jako praktickou ukázku AI v akci a letmý pohled do tvorby této příručky uvádím úplný záznam rozhovoru, který sloužil jako základ pro tento dokument.“**
-   - **Opraveno:** „Jako praktickou ukázku AI v akci a letmý pohled do tvorby této příručky uvádím úplný záznam rozhovoru, který sloužil jako základ pro tento dokument.“
-   - **Oprava:** Odstranění čárky mezi „příručky“ a „uvádím“ pro plynulost.
-
-2. **„Manuál byl od počátku koncipován tak, aby k němu významně přispěl ChatGPT.“**
-   - **Opraveno:** „Manuál byl od počátku koncipován tak, aby k němu významně přispěl ChatGPT.“
-   - **Oprava:** Žádné změny, text je správně.
-
-3. **„Moje role byla spíše o koordinaci a dohledu nad celým procesem.“**
-   - **Opraveno:** „Moje role byla spíše o koordinaci a dohledu nad celým procesem.“
-   - **Oprava:** Žádné změny, text je správně.
-
-4. **„Celý proces si vyžádal necelé dva týdny mého plného zapojení.“**
-   - **Opraveno:** „Celý proces si vyžádal necelé dva týdny mého plného zapojení.“
-   - **Oprava:** Žádné změny, text je správně.
-
-5. **„Bez použití ChatGPT bych čelil značným problémům při shromažďování všech nezbytných dat koherentním způsobem.“**
-   - **Opraveno:** „Bez použití ChatGPT bych čelil značným problémům při shromažďování všech nezbytných dat koherentním způsobem.“
-   - **Oprava:** Žádné změny, text je správně.
-
-6. **„Sice by to šlo i bez toho, ale trvalo by to mnohem déle a je pravděpodobné, že bych se do toho vůbec nepouštěl.“**
-   - **Opraveno:** „Sice by to šlo i bez něj, ale trvalo by to mnohem déle, a je pravděpodobné, že bych se do toho vůbec nepustil.“
-   - **Oprava:** Změněno „bez toho“ na „bez něj“ a „nepouštěl“ na „nepustil“ pro plynulost a jasnost.
-
-7. **„Pokud tedy považujete tuto příručku za přínosnou, rád bych zdůraznil roli ChatGPT na jejím vývoji a vyjádřil svou vděčnost vývojářům a všem skvělým mozkům, kteří k vývoji umělé inteligence (nejen ChatGPT) přispěli.“**
-   - **Opraveno:** „Pokud tedy považujete tuto příručku za přínosnou, rád bych zdůraznil roli ChatGPT na jejím vývoji a vyjádřil svou vděčnost vývojářům a všem skvělým mozkům, kteří k vývoji umělé inteligence (nejen ChatGPT) přispěli.“
-   - **Oprava:** Žádné změny, text je správně.
-
-8. **„Děkuji také vám všem za přečtení a případnou zpětnou vazbu, a přeji ať se v životě daří a AI je vaším dobrým pomocníkem.“**
-   - **Opraveno:** „Děkuji také vám všem za přečtení a případnou zpětnou vazbu a přeji, ať se v životě daří a AI je vaším dobrým pomocníkem.“
-   - **Oprava:** Odstranění čárky mezi „zpětnou vazbu“ a „a“ a přidání čárky před „ať“ pro správné oddělení vět.
-
-Text po úpravách:
-
----
-
-**9.f Jak vznikl tento manuál**
+###### 9.f Jak vznikl tento manuál
 
 **Záznam konverzace s ChatGPT při tvorbě tohoto dokumentu**
 ---
@@ -1686,15 +1646,15 @@ aby k němu významně přispěl ChatGPT. Moje role byla spíše o koordinaci a 
 Texty jsou tak určené česky mluvícím uživatelům a zde jsem tento odstavec s odkazy nechal 
 hlavně pro výpys jednotlivých kroků a dní.)
 
-[16. srpen 2024 - Vytvoření osnovy a získání prvních návrhů textů](ChatGPT/24-08-16.md)  
-[17. srpen 2024 - Zpracování a úprava získaných textů](ChatGPT/24-08-17.md)  
-[18. srpen 2024 - Vytvoření textů pro manuál určený začátečníkům](ChatGPT/24-08-18.md)  
-[19. srpen 2024 - Dokončení textů a oprava gramatiky manuálu pro začátečníky](ChatGPT/24-08-19.md)  
-[20. srpen 2024 - Dokončení opravy gramatiky a kontrola smysluplnosti manuálu pro začátečníky](ChatGPT/24-08-20.md)  
-[24. srpen 2024 - Doplnění textů pro hlavní manuál](ChatGPT/24-08-24.md)  
-[25. srpen 2024 - Konečná úprava manuálu pro začátečníky](ChatGPT/24-08-25.md)  
-[26. srpen 2024 - Konečná úprava hlavního manuálu](ChatGPT/24-08-26.md)  
-[27. srpen 2024 - Překlady obou manuálů do angličtiny](ChatGPT/24-08-27.md)  
+[16. srpen 2024 - Vytvoření osnovy a získání prvních návrhů textů](../ChatGPT/24-08-16.md)  
+[17. srpen 2024 - Zpracování a úprava získaných textů](../ChatGPT/24-08-17.md)  
+[18. srpen 2024 - Vytvoření textů pro manuál určený začátečníkům](../ChatGPT/24-08-18.md)  
+[19. srpen 2024 - Dokončení textů a oprava gramatiky manuálu pro začátečníky](../ChatGPT/24-08-19.md)  
+[20. srpen 2024 - Dokončení opravy gramatiky a kontrola smysluplnosti manuálu pro začátečníky](../ChatGPT/24-08-20.md)  
+[24. srpen 2024 - Doplnění textů pro hlavní manuál](../ChatGPT/24-08-24.md)  
+[25. srpen 2024 - Konečná úprava manuálu pro začátečníky](../ChatGPT/24-08-25.md)  
+[26. srpen 2024 - Konečná úprava hlavního manuálu](../ChatGPT/24-08-26.md)  
+[27. srpen 2024 - Překlady obou manuálů do angličtiny](../ChatGPT/24-08-27.md)  
 
 Celý proces si vyžádal necelé dva týdny mého plného zapojení. 
 Bez použití ChatGPT bych čelil značným problémům při shromažďování všech nezbytných dat koherentním způsobem. 
