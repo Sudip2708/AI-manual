@@ -4,25 +4,25 @@ AI, or Artificial Intelligence, is an acronym we hear more and more often these 
 But what does it actually mean? If you’re not very familiar with AI yet, 
 the following lines are just for you.
 
-You can find more detailed information on this topic in the [AI Manual](Manual_pro_AI.md), 
+You can find more detailed information on this topic in the [AI Manual](Manual_for_AI.md), 
 which is linked to this introduction and provides a more in-depth analysis.
 
 ---
 
 ### Contents
-- [How a Vacuum Cleaner Becomes Intelligent](#How-a-Vacuum-Cleaner-Becomes-Intelligent)
-- [Why AI Is Not Alive and Doesn’t Want to Destroy the World](#Why-AI-Is-Not-Alive-and-Doesn’t-Want-to-Destroy-the-World)
-- [AI Cookbook](#AI-Cookbook)
-- [AI as a Spaceship Computer](#AI-as-a-Spaceship-Computer)
-- [How AI Works](#How-AI-Works)
-- [How AI Learns](#How-AI-Learns)
-- [How to Communicate with AI](#How-to-Communicate-with-AI)
-- [Where to Try AI](#Where-to-Try-AI)
-- [Greetings to You](#Greetings-to-You)
-- [What AI Can Help With](#What-AI-Can-Help-With)
-- [Does AI Make Mistakes](#Does-AI-Make-Mistakes)
-- [Final Word](#Final-Word)
-- [Appendix: A Few Query Examples for Your Inspiration](#Appendix)
+- [How a Vacuum Cleaner Becomes Intelligent](#how-a-vacuum-cleaner-becomes-intelligent)
+- [Why AI Is Not Alive and Doesn’t Want to Destroy the World](#why-ai-is-not-alive-and-doesnt-intend-to-destroy-the-world)
+- [AI Cookbook](#ai-cookbook)
+- [AI as a Spaceship Computer](#ai-as-a-spaceship-computer)
+- [How AI Works](#how-ai-works)
+- [How AI Learns](#how-ai-learns)
+- [How to Communicate with AI](#how-to-communicate-with-ai)
+- [Where to Try AI](#where-to-try-out-ai)
+- [Greetings to You](#a-greeting-for-you)
+- [What AI Can Help With](#what-ai-can-help-with)
+- [Does AI Make Mistakes](#does-ai-make-mistakes)
+- [Final Word](#final-words)
+- [Appendix: A Few Query Examples for Your Inspiration](#appendix-a-few-sample-questions-for-your-inspiration)
 
 ---
 

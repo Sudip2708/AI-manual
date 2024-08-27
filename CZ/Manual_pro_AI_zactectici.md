@@ -9,19 +9,19 @@ který je propojený s tímto úvodem a obsahuje podrobnější rozbor tématu.
 ---
 
 ### Obsah
-- [Jak se stane vysavač inteligentním](#Jak se stane vysavač inteligentním)
-- [Proč AI není živá a proč netouží zničit svět](#Proč AI není živá a proč netouží zničit svět)
-- [AI kuchařka](#AI kuchařka)
-- [AI jako počítač vesmírné lodi](#AI jako počítač vesmírné lodi)
-- [Jak AI pracuje](#Jak AI pracuje)
-- [Jak se AI učí](#Jak se AI učí)
-- [Jak s AI komunikovat](#Jak s AI komunikovat)
-- [Kde si AI vyzkoušet](#Kde si AI vyzkoušet)
-- [Pozdrav pro vás](#Pozdrav pro vás)
-- [S čím může AI pomoci](#S čím může AI pomoci)
-- [Dělá AI chyby](#Dělá AI chyby)
-- [Slovo závěrem](#Slovo závěrem)
-- [Dodatek: Pár příkladů dotazů pro vaši inspiraci](#Dodatek)
+- [Jak se stane vysavač inteligentním](#jak-se-stane-vysavač-inteligentním)
+- [Proč AI není živá a proč netouží zničit svět](#proč-ai-není-živá-a-nemá-v-úmyslu-zničit-svět)
+- [AI kuchařka](#ai-kuchařka)
+- [AI jako počítač vesmírné lodi](#ai-jako-počítač-vesmírné-lodi)
+- [Jak AI pracuje](#jak-ai-pracuje)
+- [Jak se AI učí](#jak-se-ai-učí)
+- [Jak s AI komunikovat](#jak-s-ai-komunikovat)
+- [Kde si AI vyzkoušet](#kde-si-ai-vyzkoušet)
+- [Pozdrav pro vás](#pozdrav-pro-vás)
+- [S čím může AI pomoci](#s-čím-může-ai-pomoci)
+- [Dělá AI chyby](#dělá-ai-chyby)
+- [Slovo závěrem](#slovo-závěrem)
+- [Dodatek: Pár příkladů dotazů pro vaši inspiraci](#dodatek-pár-příkladů-dotazů-pro-vaši-inspiraci)
 
 ---
 

@@ -1584,15 +1584,15 @@ My role was primarily to coordinate and oversee the entire process.
 The texts are intended for Czech-speaking users, and I have included this section 
 with links mainly to provide a record of the individual steps and days.)
 
-[August 16, 2024 - Creation of the outline and initial drafts of texts](24-08-16.md)  
-[August 17, 2024 - Processing and editing the obtained texts](24-08-17.md)  
-[August 18, 2024 - Creation of texts for the beginner's manual](24-08-18.md)  
-[August 19, 2024 - Completion of texts and grammar correction for the beginner's manual](24-08-19.md)  
-[August 20, 2024 - Final grammar correction and coherence check for the beginner's manual](24-08-20.md)  
-[August 24, 2024 - Addition of texts for the main manual](24-08-24.md)  
-[August 25, 2024 - Final editing of the beginner's manual](24-08-25.md)  
-[August 26, 2024 - Final editing of the main manual](24-08-26.md)  
-[August 27, 2024 - Translation of both manuals into English](24-08-27.md)  
+[August 16, 2024 - Creation of the outline and initial drafts of texts](ChatGPT/24-08-16.md)  
+[August 17, 2024 - Processing and editing the obtained texts](ChatGPT/24-08-17.md)  
+[August 18, 2024 - Creation of texts for the beginner's manual](ChatGPT/24-08-18.md)  
+[August 19, 2024 - Completion of texts and grammar correction for the beginner's manual](ChatGPT/24-08-19.md)  
+[August 20, 2024 - Final grammar correction and coherence check for the beginner's manual](ChatGPT/24-08-20.md)  
+[August 24, 2024 - Addition of texts for the main manual](ChatGPT/24-08-24.md)  
+[August 25, 2024 - Final editing of the beginner's manual](ChatGPT/24-08-25.md)  
+[August 26, 2024 - Final editing of the main manual](ChatGPT/24-08-26.md)  
+[August 27, 2024 - Translation of both manuals into English](ChatGPT/24-08-27.md)  
 
 The entire process took just under two weeks of my full involvement. 
 Without ChatGPT, I would have faced significant challenges in gathering all the necessary data coherently. 
