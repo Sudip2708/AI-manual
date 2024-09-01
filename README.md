@@ -13,10 +13,10 @@ and aims to provide additional information for a deeper understanding of how AI 
 The manual has been developed with the assistance of ChatGPT and is available in the following versions:
 
 [<img src="Pictures/Flags/EN.png" alt="US Flag" style="height: 20px;">](E)
-[**The English version**](EN/AI_manual_en.md)  
+[**The English version**](EN/AI-manual-en.md)  
 
 [<img src="Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">]()
-[**The original Czech version**](CZ/AI_manual_cz.md)  
+[**The original Czech version**](CZ/AI-manual-cz.md)  
 
 ---
 # The Beginner's Guide
