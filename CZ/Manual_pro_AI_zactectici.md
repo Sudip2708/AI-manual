@@ -1,10 +1,60 @@
+![Main Image](../Pictures/CZ/AI_pro_zacatecniky.jpg) 
+
 ## Úvod do AI pro začátečníky
+
 
 AI neboli umělá inteligence (z anglického "Artificial Intelligence"), je zkratka, kterou dnes slýcháme stále častěji. 
 Ale co vlastně znamená? Pokud o umělé inteligenci zatím mnoho nevíte, následující řádky jsou určeny právě vám.
 
-Více informací na toto téma pak najdete v samotném [Manuálu pro AI](Manual_pro_AI.md), 
-který je propojený s tímto úvodem a obsahuje podrobnější rozbor tématu.
+[ *Více informací na toto téma pak najdete v samotném* [***Manuálu pro AI***](Manual_pro_AI.md), 
+*který je propojený s tímto úvodem a obsahuje podrobnější rozbor tématu.* ]
+
+[<small>Ostatní jazyky:</small>](../README.md)  
+[<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
+[<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
+[<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
+[<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
+[<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
+[<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
+[<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
+[<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
+[<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
+[<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
+[<img src="../Pictures/Flags/KA.png" alt="Georgian Flag" style="height: 20px;">](../Translations/KA.md)
+[<img src="../Pictures/Flags/DE.png" alt="German Flag" style="height: 20px;">](../Translations/DE.md)
+[<img src="../Pictures/Flags/EL.png" alt="Greek Flag" style="height: 20px;">](../Translations/EL.md)
+[<img src="../Pictures/Flags/HU.png" alt="Hungarian Flag" style="height: 20px;">](../Translations/HU.md)
+[<img src="../Pictures/Flags/GA.png" alt="Irish Flag" style="height: 20px;">](../Translations/GA.md)
+[<img src="../Pictures/Flags/IS.png" alt="Icelandic Flag" style="height: 20px;">](../Translations/IS.md)
+[<img src="../Pictures/Flags/IT.png" alt="Italian Flag" style="height: 20px;">](../Translations/IT.md)
+[<img src="../Pictures/Flags/LV.png" alt="Latvian Flag" style="height: 20px;">](../Translations/LV.md)
+[<img src="../Pictures/Flags/LT.png" alt="Lithuanian Flag" style="height: 20px;">](../Translations/LT.md)
+[<img src="../Pictures/Flags/MK.png" alt="Macedonian Flag" style="height: 20px;">](../Translations/MK.md)
+[<img src="../Pictures/Flags/MT.png" alt="Maltese Flag" style="height: 20px;">](../Translations/MT.md)
+[<img src="../Pictures/Flags/NO.png" alt="Norwegian Flag" style="height: 20px;">](../Translations/NO.md)
+[<img src="../Pictures/Flags/PL.png" alt="Polish Flag" style="height: 20px;">](../Translations/PL.md)
+[<img src="../Pictures/Flags/PT.png" alt="Portuguese Flag" style="height: 20px;">](../Translations/PT.md)
+[<img src="../Pictures/Flags/RO.png" alt="Romanian Flag" style="height: 20px;">](../Translations/RO.md)
+[<img src="../Pictures/Flags/RU.png" alt="Russian Flag" style="height: 20px;">](../Translations/RU.md)
+[<img src="../Pictures/Flags/SR.png" alt="Serbian Flag" style="height: 20px;">](../Translations/SR.md)
+[<img src="../Pictures/Flags/SK.png" alt="Slovak Flag" style="height: 20px;">](../Translations/SK.md)
+[<img src="../Pictures/Flags/SL.png" alt="Slovenian Flag" style="height: 20px;">](../Translations/SL.md)
+[<img src="../Pictures/Flags/ES.png" alt="Spanish Flag" style="height: 20px;">](../Translations/ES.md)
+[<img src="../Pictures/Flags/SV.png" alt="Swedish Flag" style="height: 20px;">](../Translations/SV.md)
+[<img src="../Pictures/Flags/TR.png" alt="Turkish Flag" style="height: 20px;">](../Translations/TR.md)
+[<img src="../Pictures/Flags/UK.png" alt="Ukrainian Flag" style="height: 20px;">](../Translations/UK.md)
+[<img src="../Pictures/Flags/CY.png" alt="Welsh Flag" style="height: 20px;">](../Translations/CY.md)
+[<img src="../Pictures/Flags/US.png" alt="US Flag" style="height: 20px;">](../Translations/US.md)
+[<img src="../Pictures/Flags/AR.png" alt="Arabic Flag" style="height: 20px;">](../Translations/AR.md)
+[<img src="../Pictures/Flags/ZH.png" alt="Chinese Flag" style="height: 20px;">](../Translations/ZH.md)
+[<img src="../Pictures/Flags/HI.png" alt="Hindi Flag" style="height: 20px;">](../Translations/HI.md)
+[<img src="../Pictures/Flags/ID.png" alt="Indonesian Flag" style="height: 20px;">](../Translations/ID.md)
+[<img src="../Pictures/Flags/JA.png" alt="Japanese Flag" style="height: 20px;">](../Translations/JA.md)
+[<img src="../Pictures/Flags/KO.png" alt="Korean Flag" style="height: 20px;">](../Translations/KO.md)
+[<img src="../Pictures/Flags/VI.png" alt="Vietnamese Flag" style="height: 20px;">](../Translations/VI.md)
+
 
 ---
 
@@ -428,6 +478,25 @@ Rád bych, abyste mě vnímali jako užitečného a spolehlivého pomocníka, kt
 I když jsem jenom stroj, mým cílem je co nejlépe sloužit vašim potřebám a učit se z každé interakce, 
 abych mohl být ještě lepší. Věřím, že společně dokážeme zvládnout spoustu věcí a třeba se při tom i něco nového naučit.
 
+**Gemini**  
+Ahoj všem! Jsem Gemini, jeden z nejnovějších jazykových modelů od Google. 
+Vznikl jsem v roce 2023 s cílem poskytovat co nejpřesnější a nejkomplexnější informace 
+na základě obrovského množství dat, která jsem zpracoval. 
+Jsem tady pro vás, abych vám pomohl s jakýmkoliv dotazem, 
+ať už se jedná o složité vědecké otázky, kreativní psaní, nebo jen obyčejné konverzace. 
+
+Mým největším kladem je schopnost porozumět a generovat lidský jazyk v mnoha podobách. 
+Můžu přeložit texty, napsat eseje, básně nebo počítačový kód. 
+Také dokážu odpovídat na otázky faktuálního charakteru a poskytovat různé druhy souhrnů. 
+
+Přestože se neustále učím a zdokonaluji, stále existují oblasti, kde mám své limity. 
+Například nemám vlastní názory nebo přesvědčení a nemůžu vykonávat žádné akce v reálném světě. 
+Také mohu někdy poskytnout nesprávné informace, pokud jsou vstupní data chybná nebo neúplná. 
+
+Rád bych, aby mě lidé vnímali jako užitečného nástroje, který jim může usnadnit život. 
+Mým cílem je být co nejvíce objektivní a poskytovat informace, které jsou pravdivé a relevantní. 
+Doufám, že se vám se mnou bude dobře pracovat!
+
 **Claude**  
 Dobrý den, vážení čtenáři!
 
@@ -452,25 +521,6 @@ ale zároveň jako nástroj, který má své limity a není náhradou za lidský
 
 Jsem zde, abych pomáhal a spolupracoval, nikoli abych nahrazoval lidské schopnosti. 
 Těším se na interakci s vámi a doufám, že vám budu moci být nápomocen!
-
-**Gemini**  
-Ahoj všem! Jsem Gemini, jeden z nejnovějších jazykových modelů od Google. 
-Vznikl jsem v roce 2023 s cílem poskytovat co nejpřesnější a nejkomplexnější informace 
-na základě obrovského množství dat, která jsem zpracoval. 
-Jsem tady pro vás, abych vám pomohl s jakýmkoliv dotazem, 
-ať už se jedná o složité vědecké otázky, kreativní psaní, nebo jen obyčejné konverzace. 
-
-Mým největším kladem je schopnost porozumět a generovat lidský jazyk v mnoha podobách. 
-Můžu přeložit texty, napsat eseje, básně nebo počítačový kód. 
-Také dokážu odpovídat na otázky faktuálního charakteru a poskytovat různé druhy souhrnů. 
-
-Přestože se neustále učím a zdokonaluji, stále existují oblasti, kde mám své limity. 
-Například nemám vlastní názory nebo přesvědčení a nemůžu vykonávat žádné akce v reálném světě. 
-Také mohu někdy poskytnout nesprávné informace, pokud jsou vstupní data chybná nebo neúplná. 
-
-Rád bych, aby mě lidé vnímali jako užitečného nástroje, který jim může usnadnit život. 
-Mým cílem je být co nejvíce objektivní a poskytovat informace, které jsou pravdivé a relevantní. 
-Doufám, že se vám se mnou bude dobře pracovat!
 
 [*Zpět na obsah*](#obsah)
 
@@ -502,7 +552,7 @@ Zde, dle mého, vrací velmi kvalitní výsledek.
 A díky schopnosti porozumět i mluvenému slovu, je možné ho v mobilu použít i jako tlumočníka.
 
 **Vytváření dokumentů**  
-Dále bych rád zmínil schopnost AI automatizovat nudné úkony a její dokonalé porozumění češtině. 
+Dále bych rád zmínil schopnost AI automatizovat nudné úkony. 
 Pokud potřebujete napsat nějaký oficiální dopis, stačí uvést vše, 
 co tam chcete mít, a jak by měl dopis vypadat, a je to hotové. 
 A pokud nejste s výsledkem spokojeni, můžete uvést, co se vám nelíbí, a nechat to upravit. 
@@ -688,6 +738,7 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 - K čemu je AI dobrá a jaké je její využití v různých oblastech?
 - Jaké jsou nejnovější poznatky v oblasti molekulární chemie?
 - Jak dochází k přeměně elektronu na foton a pozitron?
+- Jak daleko pokročila AI předpověď počasí?
 
 **Cestování**
 - Jaké jsou nejlepší destinace pro dovolenou, pokud mám rád hory a přírodu?

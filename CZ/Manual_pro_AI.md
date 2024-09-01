@@ -1,10 +1,11 @@
+![Main Image](../Pictures/CZ/AI_manual_cz.jpg)
+
 # Manuál pro AI
 
-### [>>> Manuál pro úplné začátečníky <<<](Manual_pro_AI_zactectici.md)
 
-**Pokud byste ocenili podrobnější úvod s více informacemi, který je koncipovaný tak, 
-aby mu porozuměli i lidé, kteří o AI dosud nic neslyšeli, doporučuji si nejprve přečíst tento text:**
-[**Úvod do AI pro úplné začátečníky**](Manual_pro_AI_zactectici.md)
+[ *Pokud byste ocenili podrobnější úvod s více informacemi, který je koncipovaný tak, 
+aby mu porozuměli i lidé, kteří o AI dosud nic neslyšeli, doporučuji si nejprve přečíst tento text:*
+[***Úvod do AI pro úplné začátečníky***](Manual_pro_AI_zactectici.md) ]
 
 ---
 
@@ -143,7 +144,7 @@ Proto je důležité AI porozumět a naučit se ji efektivně využívat.
 
 ###### 1.2 Proč AI vznikla
 
-**Omezenost strojového učení**
+**Limity tradičního programování**
 ---
 V minulosti, když lidé chtěli vytvořit program, který by dokázal vyhodnocovat data 
 a provádět nad nimi různé operace, museli do něj zadávat veškeré parametry ručně. 
@@ -1639,12 +1640,13 @@ Na těchto stránkách najdete podrobnější informace o jednotlivých ustanove
 **Záznam konverzace s ChatGPT při tvorbě tohoto dokumentu**
 ---
 Jako praktickou ukázku AI v akci a letmý pohled do tvorby této příručky uvádím úplný záznam rozhovoru, 
-který sloužil jako základ pro tento dokument. Manuál byl od počátku koncipován tak, 
-aby k němu významně přispěl ChatGPT. Moje role byla spíše o koordinaci a dohledu nad celým procesem.
+který sloužil jako základ pro tento dokument. 
 
-(Veškerá konverzace je v českém jazyce, takže kdo nerozumí češtině, moc si v nich nepočte. 
-Texty jsou tak určené česky mluvícím uživatelům a zde jsem tento odstavec s odkazy nechal 
-hlavně pro výpys jednotlivých kroků a dní.)
+Manuál byl od počátku koncipován tak, aby k jeho tvorbě významně přispěl ChatGPT. 
+Moje role spočívala především v koordinaci a dohledu nad celým procesem. 
+U manuálu jsem navrhl základní body a následně nechal ChatGPT, aby je dále rozvinul. 
+Text pro začátečníky je naopak více mým dílem, takže jsme si zde role prohodili 
+a ChatGPT se tentokrát ujal role korektora.
 
 [16. srpen 2024 - Vytvoření osnovy a získání prvních návrhů textů](../ChatGPT/24-08-16.md)  
 [17. srpen 2024 - Zpracování a úprava získaných textů](../ChatGPT/24-08-17.md)  

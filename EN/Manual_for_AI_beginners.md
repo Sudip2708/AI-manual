@@ -1,11 +1,61 @@
+![Main Image](../Pictures/EN/AI_for_beginners.jpg)
+
 ## Introduction to AI for Beginners
 
 AI, or Artificial Intelligence, is an acronym we hear more and more often these days. 
 But what does it actually mean? If you’re not very familiar with AI yet, 
 the following lines are just for you.
 
-You can find more detailed information on this topic in the [AI Manual](Manual_for_AI.md), 
-which is linked to this introduction and provides a more in-depth analysis.
+[ *You can find more detailed information on this topic in the* [***AI Manual***](Manual_for_AI.md), 
+*which is linked to this introduction and provides a more in-depth analysis.* ]
+
+<small>Translated from the Czech original by ChatGPT.</small>  
+[<small>Other languages:</small>](../README.md)  
+[<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
+[<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
+[<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
+[<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
+[<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
+[<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
+[<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
+[<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
+[<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
+[<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
+[<img src="../Pictures/Flags/KA.png" alt="Georgian Flag" style="height: 20px;">](../Translations/KA.md)
+[<img src="../Pictures/Flags/DE.png" alt="German Flag" style="height: 20px;">](../Translations/DE.md)
+[<img src="../Pictures/Flags/EL.png" alt="Greek Flag" style="height: 20px;">](../Translations/EL.md)
+[<img src="../Pictures/Flags/HU.png" alt="Hungarian Flag" style="height: 20px;">](../Translations/HU.md)
+[<img src="../Pictures/Flags/GA.png" alt="Irish Flag" style="height: 20px;">](../Translations/GA.md)
+[<img src="../Pictures/Flags/IS.png" alt="Icelandic Flag" style="height: 20px;">](../Translations/IS.md)
+[<img src="../Pictures/Flags/IT.png" alt="Italian Flag" style="height: 20px;">](../Translations/IT.md)
+[<img src="../Pictures/Flags/LV.png" alt="Latvian Flag" style="height: 20px;">](../Translations/LV.md)
+[<img src="../Pictures/Flags/LT.png" alt="Lithuanian Flag" style="height: 20px;">](../Translations/LT.md)
+[<img src="../Pictures/Flags/MK.png" alt="Macedonian Flag" style="height: 20px;">](../Translations/MK.md)
+[<img src="../Pictures/Flags/MT.png" alt="Maltese Flag" style="height: 20px;">](../Translations/MT.md)
+[<img src="../Pictures/Flags/NO.png" alt="Norwegian Flag" style="height: 20px;">](../Translations/NO.md)
+[<img src="../Pictures/Flags/PL.png" alt="Polish Flag" style="height: 20px;">](../Translations/PL.md)
+[<img src="../Pictures/Flags/PT.png" alt="Portuguese Flag" style="height: 20px;">](../Translations/PT.md)
+[<img src="../Pictures/Flags/RO.png" alt="Romanian Flag" style="height: 20px;">](../Translations/RO.md)
+[<img src="../Pictures/Flags/RU.png" alt="Russian Flag" style="height: 20px;">](../Translations/RU.md)
+[<img src="../Pictures/Flags/SR.png" alt="Serbian Flag" style="height: 20px;">](../Translations/SR.md)
+[<img src="../Pictures/Flags/SK.png" alt="Slovak Flag" style="height: 20px;">](../Translations/SK.md)
+[<img src="../Pictures/Flags/SL.png" alt="Slovenian Flag" style="height: 20px;">](../Translations/SL.md)
+[<img src="../Pictures/Flags/ES.png" alt="Spanish Flag" style="height: 20px;">](../Translations/ES.md)
+[<img src="../Pictures/Flags/SV.png" alt="Swedish Flag" style="height: 20px;">](../Translations/SV.md)
+[<img src="../Pictures/Flags/TR.png" alt="Turkish Flag" style="height: 20px;">](../Translations/TR.md)
+[<img src="../Pictures/Flags/UK.png" alt="Ukrainian Flag" style="height: 20px;">](../Translations/UK.md)
+[<img src="../Pictures/Flags/CY.png" alt="Welsh Flag" style="height: 20px;">](../Translations/CY.md)
+[<img src="../Pictures/Flags/US.png" alt="US Flag" style="height: 20px;">](../Translations/US.md)
+[<img src="../Pictures/Flags/AR.png" alt="Arabic Flag" style="height: 20px;">](../Translations/AR.md)
+[<img src="../Pictures/Flags/ZH.png" alt="Chinese Flag" style="height: 20px;">](../Translations/ZH.md)
+[<img src="../Pictures/Flags/HI.png" alt="Hindi Flag" style="height: 20px;">](../Translations/HI.md)
+[<img src="../Pictures/Flags/ID.png" alt="Indonesian Flag" style="height: 20px;">](../Translations/ID.md)
+[<img src="../Pictures/Flags/JA.png" alt="Japanese Flag" style="height: 20px;">](../Translations/JA.md)
+[<img src="../Pictures/Flags/KO.png" alt="Korean Flag" style="height: 20px;">](../Translations/KO.md)
+[<img src="../Pictures/Flags/VI.png" alt="Vietnamese Flag" style="height: 20px;">](../Translations/VI.md)
+
 
 ---
 
@@ -364,6 +414,18 @@ A significant advantage is the mobile app, which is also completely free,
 and where I often use voice dictation for queries. Understanding spoken language is, 
 in my opinion, at a very good level, and overall, I’m satisfied with the app.
 
+**Claude**  
+[https://claude.ai/](https://claude.ai/)  
+This is the last AI I’ve worked with. My input here will be very brief, 
+as my experience with it isn’t extensive. However, I’d still like to express praise because, 
+compared to ChatGPT 4.0, these two probably don’t have much to criticize each other about 
+and are roughly on the same level.
+
+Its biggest downside is that it doesn’t offer a completely free version. 
+It only provides a few queries (sometimes just one) per day, which significantly disadvantages it 
+from the perspective of a non-paying user compared to the previous AIs. 
+Nevertheless, it’s definitely worth checking out, and if you want, you can give it a try as well.
+
 **Gemini**  
 [https://gemini.google.com/](https://gemini.google.com/)  
 The second chatbot I encountered is Google’s flagship. Its greatest advantage is undoubtedly 
@@ -385,18 +447,6 @@ Overall, Gemini seems to me to be a weaker tool compared to ChatGPT,
 but it offers things that ChatGPT cannot do, so they complement each other well. 
 Additionally, it’s backed by the giant and pioneer in AI, Google, so it has a solid foundation and, 
 hopefully, a promise to correct its shortcomings in the future.
-
-**Claude**  
-[https://claude.ai/](https://claude.ai/)  
-This is the last AI I’ve worked with. My input here will be very brief, 
-as my experience with it isn’t extensive. However, I’d still like to express praise because, 
-compared to ChatGPT 4.0, these two probably don’t have much to criticize each other about 
-and are roughly on the same level.
-
-Its biggest downside is that it doesn’t offer a completely free version. 
-It only provides a few queries (sometimes just one) per day, which significantly disadvantages it 
-from the perspective of a non-paying user compared to the previous AIs. 
-Nevertheless, it’s definitely worth checking out, and if you want, you can give it a try as well.
 
 [*Back to Contents*](#contents)
 
@@ -496,7 +546,7 @@ AI has the potential to level the educational playing field between richer and p
 making it a valuable tool for personal development.
 
 **AI as a Grammar Checker, Translator, and Interpreter**  
-AI, especially ChatGPT, has a deep understanding of languages (at least from a dyslexic's perspective). 
+AI, and especially ChatGPT, has a very good understanding of English (at least from a dyslexic's perspective).
 On one hand, it doesn’t mind if you make spelling mistakes in your queries because it focuses mainly on the content. 
 On the other hand, it offers the ability to check your written texts for grammar and style to improve readability. 
 Similarly, it can understand other languages at a comparable level, making it an excellent tool for text translation. 
@@ -679,6 +729,7 @@ August 18, 2024 Sudip2708
 - What is AI good for, and what are its applications in various fields?
 - What are the latest findings in the field of molecular chemistry?
 - How does an electron transform into a photon and a positron?
+- How far is AI weather forecasting progress?
 
 **Travel Questions**
 - What are the best vacation destinations if I like mountains and nature?
@@ -693,4 +744,4 @@ August 18, 2024 Sudip2708
 - I wrote this text, but it seems too long. Could you shorten it while keeping all the essential information?
 - How should I properly format a resume and cover letter for this job posting?
 
-[*Back to Table of Contents*](#Contents) • [*Link to Main Manual*](Manual_for_AI.md)
+[*Back to Contents*](#Contents) • [*Link to Main Manual*](Manual_for_AI.md)

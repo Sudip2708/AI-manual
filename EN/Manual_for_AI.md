@@ -1,9 +1,13 @@
+![Main Image](../Pictures/EN/AI_manual_en.jpg)
+
 # AI Manual
 
 ### [>>> Manual for Absolute Beginners <<<](Manual_for_AI_beginners.md)
 
-**If you would appreciate a more detailed introduction with more information, designed to be understood even by those who have never heard of AI before, I recommend reading this text first:**  
-[**Introduction to AI for Absolute Beginners**](Manual_for_AI_beginners.md)
+[ *If you would appreciate a more detailed introduction with more information, 
+designed to be understood even by those who have never heard of AI before, 
+I recommend reading this text first:* 
+[***Introduction to AI for Absolute Beginners***](Manual_for_AI_beginners.md) ]
 
 ---
 
@@ -1601,12 +1605,16 @@ Here’s the translation of the text into English:
 ---
 As a practical example of AI in action and a glimpse into the creation of this manual, 
 I am including the full record of the conversation that served as the basis for this document. 
-The manual was conceived from the start to have significant input from ChatGPT. 
-My role was primarily to coordinate and oversee the entire process.
 
-(The entire conversation is in Czech, so those who do not understand Czech will not be able to read it. 
+The manual was initially designed to significantly involve ChatGPT in its creation. 
+My role primarily focused on coordinating and overseeing the entire process. 
+I proposed the basic points of the manual and then let ChatGPT expand on them. 
+The text for beginners, on the other hand, is more of my own work, 
+so we switched roles here, and ChatGPT took on the role of the editor this time.
+
+*(The entire conversation is in Czech, so those who do not understand Czech will not be able to read it. 
 The texts are intended for Czech-speaking users, and I have included this section 
-with links mainly to provide a record of the individual steps and days.)
+with links mainly to provide a record of the individual steps and days.)*
 
 [August 16, 2024 - Creation of the outline and initial drafts of texts](../ChatGPT/24-08-16.md)  
 [August 17, 2024 - Processing and editing the obtained texts](../ChatGPT/24-08-17.md)  
