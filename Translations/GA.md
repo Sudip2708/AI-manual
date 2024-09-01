@@ -4,9 +4,9 @@
 
 Tá AI, nó intleacht shaorga (ó "Artificial Intelligence" i mBéarla), ina ghiorrúchán a chloistear níos minice le déanaí. Ach cad a chiallaíonn sé go díreach? Má tá tú fós ag foghlaim faoi intleacht shaorga, tá na línte seo dírithe ort.
 
-[ *Tuilleadh eolais ar an ábhar seo a fháil sa* [***AI Manual***](../EN/Manual_for_AI.md), *atá scríofa i mBéarla agus atá níos mionsonraithe ar an ábhar.* ]
+[ *Tuilleadh eolais ar an ábhar seo a fháil sa* [***AI Manual***](../EN/AI-manual-en.md), *atá scríofa i mBéarla agus atá níos mionsonraithe ar an ábhar.* ]
 
-<small>Ón téacs bunaidh i gCzech, a aistríodh ag ChatGPT.</small>
+<small>Ón téacs bunaidh i gCzech, a aistríodh ag ChatGPT.</small>  
 [<small>Teangacha eile:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ Tá AI, nó intleacht shaorga (ó "Artificial Intelligence" i mBéarla), ina ghi
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Ní gá duit a bheith buartha faoi AI – ní hé seo an buaic, ach uirlis le ha
 
 18.8.2024 Sudip2708
 
-[*Ar ais chuig an ábhar*](#ábhar)  • [*Naisc chuig an lámhleabhar príomhúil*](../EN/Manual_for_AI.md)
+[*Ar ais chuig an ábhar*](#ábhar)  • [*Naisc chuig an lámhleabhar príomhúil*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ Ní gá duit a bheith buartha faoi AI – ní hé seo an buaic, ach uirlis le ha
 - Scríobh mé an téacs seo, ach tuigeann sé go bhfuil sé ró-fhada. An féidir leat é a ghearradh go mbeadh an t-eolas tábhachtach fós ann?
 - Conas a fhoirmiú go ceart CV agus iarratas ar phost do seo?
 
-[*Ar ais chuig an ábhar*](#ábhar)  • [*Naisc chuig an lámhleabhar príomhúil*](../EN/Manual_for_AI.md)
+[*Ar ais chuig an ábhar*](#ábhar)  • [*Naisc chuig an lámhleabhar príomhúil*](../EN/AI-manual-en.md)
 
 ---
 

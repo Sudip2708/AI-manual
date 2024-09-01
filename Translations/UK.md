@@ -4,7 +4,7 @@
 
 ШІ або штучний інтелект (від англійського "Artificial Intelligence") - це абревіатура, яку ми сьогодні чуємо все частіше. Але що це насправді означає? Якщо ви ще не знаєте багато про штучний інтелект, наступні рядки призначені саме для вас.
 
-[ *Більше інформації на цю тему ви знайдете у самому* [***ШІ Посібнику***](../EN/Manual_for_AI.md), *який написаний англійською мовою і містить детальніший аналіз теми.* ]
+[ *Більше інформації на цю тему ви знайдете у самому* [***ШІ Посібнику***](../EN/AI-manual-en.md), *який написаний англійською мовою і містить детальніший аналіз теми.* ]
 
 <small>Переклав з чеського оригіналу ChatGPT.</small>  
 [<small>Інші мови:</small>](../README.md)  
@@ -14,10 +14,10 @@
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -371,7 +371,7 @@ ChatGPT спочатку був навченим на величезних об�
 
 18.8.2024 Sudip2708
 
-[*Назад до змісту*](#зміст)  • [*Посилання на основний посібник*](../EN/Manual_for_AI.md)
+[*Назад до змісту*](#зміст)  • [*Посилання на основний посібник*](../EN/AI-manual-en.md)
 
 ---
 
@@ -449,6 +449,6 @@ ChatGPT спочатку був навченим на величезних об�
 - Я написав цей текст, але він здається мені занадто довгим. Міг би ти його скоротити так, щоб залишилося все суттєве?
 - Як правильно скласти резюме та заявку на роботу для цього оголошення?
 
-[*Назад до змісту*](#зміст) • [*Посилання на основний посібник*](../EN/Manual_for_AI.md)
+[*Назад до змісту*](#зміст) • [*Посилання на основний посібник*](../EN/AI-manual-en.md)
 
 ---

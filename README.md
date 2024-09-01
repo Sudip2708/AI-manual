@@ -12,10 +12,10 @@ and aims to provide additional information for a deeper understanding of how AI 
 
 The manual has been developed with the assistance of ChatGPT and is available in the following versions:
 
-[<img src="Pictures/Flags/EN.png" alt="US Flag" style="height: 20px;">](EN/Manual_for_AI_beginners.md)
+[<img src="Pictures/Flags/EN.png" alt="US Flag" style="height: 20px;">](E)
 [**The English version**](EN/AI_manual_en.md)  
 
-[<img src="Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](CZ/Manual_pro_AI_zactectici.md)
+[<img src="Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">]()
 [**The original Czech version**](CZ/AI_manual_cz.md)  
 
 ---
@@ -38,14 +38,14 @@ and the translation and formatting work took approximately 4 days.
 The translations have not undergone any additional review or revision, 
 so you have the opportunity to assess how well ChatGPT handles your native language.
 
-[<img src="Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](EN/Manual_for_AI_beginners.md)
-[**The English version**](EN/AI_for_beginners.md)  
+[<img src="Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](EN/AI-manual-en-beginners.md)
+[**The English version**](EN/AI-manual-en-beginners.md)  
 
-[<img src="Pictures/Flags/US.png" alt="US Flag" style="height: 20px;">](EN/Manual_for_AI_beginners.md)
-[**The American version**](EN/AI_for_beginners.md)  
+[<img src="Pictures/Flags/US.png" alt="US Flag" style="height: 20px;">](Translations/US.md)
+[**The American version**](Translations/US.md)  
 
-[<img src="Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](CZ/Manual_pro_AI_zactectici.md)
-[**The original Czech version**](CZ/AI_pro_zacatecniky.md)  
+[<img src="Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](CZ/AI-manual-cz-beginners.md)
+[**The original Czech version**](CZ/AI-manual-cz-beginners.md)  
 
 ---
 

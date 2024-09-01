@@ -6,7 +6,7 @@
 AI neboli umělá inteligence (z anglického "Artificial Intelligence"), je zkratka, kterou dnes slýcháme stále častěji. 
 Ale co vlastně znamená? Pokud o umělé inteligenci zatím mnoho nevíte, následující řádky jsou určeny právě vám.
 
-[ *Více informací na toto téma pak najdete v samotném* [***Manuálu pro AI***](Manual_pro_AI.md), 
+[ *Více informací na toto téma pak najdete v samotném* [***Manuálu pro AI***](AI-manual-cz.md), 
 *který je propojený s tímto úvodem a obsahuje podrobnější rozbor tématu.* ]
 
 [<small>Ostatní jazyky:</small>](../README.md)  
@@ -18,7 +18,7 @@ Ale co vlastně znamená? Pokud o umělé inteligenci zatím mnoho nevíte, nás
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -675,7 +675,7 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 
 18.8.2024 Sudip2708
 
-[*Zpět na obsah*](#Obsah)  • [*Odkaz na hlavní manuál*](Manual_pro_AI.md)
+[*Zpět na obsah*](#Obsah)  • [*Odkaz na hlavní manuál*](AI-manual-cz.md)
 
 ---
 
@@ -753,5 +753,5 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 - Napsal jsem tento text, ale přijde mi příliš dlouhý. Můžeš ho zkrátit tak, aby tam vše podstatné zůstalo?
 - Jak správně formulovat životopis a žádost o práci pro tento inzerát?
 
-[*Zpět na obsah*](#Obsah) • [*Odkaz na hlavní manuál*](Manual_pro_AI.md)
+[*Zpět na obsah*](#Obsah) • [*Odkaz na hlavní manuál*](AI-manual-cz.md)
 

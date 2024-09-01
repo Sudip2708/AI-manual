@@ -4,9 +4,9 @@
 
 ИИ, или искусственный интеллект (от английского "Artificial Intelligence"), является аббревиатурой, которую мы все чаще слышим сегодня. Но что же это на самом деле означает? Если вы пока не знаете много об искусственном интеллекте, следующие строки предназначены именно для вас.
 
-[ *Больше информации по этой теме вы найдете в самом* [***AI Manual***](../EN/Manual_for_AI.md), *который написан на английском языке и содержит более подробный анализ темы.* ]
+[ *Больше информации по этой теме вы найдете в самом* [***AI Manual***](../EN/AI-manual-en.md), *который написан на английском языке и содержит более подробный анализ темы.* ]
 
-<small>Переведено с чешского оригинала ChatGPT.</small>
+<small>Переведено с чешского оригинала ChatGPT.</small>  
 [<small>Другие языки:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ ChatGPT изначально обучался на обширных объема
 
 18.8.2024 Sudip2708
 
-[*Назад к содержанию*](#Содержание)  • [*Ссылка на основной мануал*](../EN/Manual_for_AI.md)
+[*Назад к содержанию*](#Содержание)  • [*Ссылка на основной мануал*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ ChatGPT изначально обучался на обширных объема
 - Я написал этот текст, но он кажется слишком длинным. Можешь сократить его, сохранив все важные моменты?
 - Как правильно оформить резюме и заявление на работу для этого объявления?
 
-[*Назад к содержанию*](#Содержание) • [*Ссылка на основной мануал*](../EN/Manual_for_AI.md)
+[*Назад к содержанию*](#Содержание) • [*Ссылка на основной мануал*](../EN/AI-manual-en.md)
 
 ---

@@ -4,7 +4,7 @@
 
 IA, o inteligencia artificial (del inglés "Artificial Intelligence"), es un término que escuchamos cada vez con más frecuencia. ¿Pero qué significa realmente? Si no sabes mucho sobre inteligencia artificial, las siguientes líneas están dirigidas especialmente para ti.
 
-[ *Más información sobre este tema la encontrarás en el* [***Manual de IA***](../EN/Manual_for_AI.md), *que está escrito en inglés y contiene un análisis más detallado del tema.* ]
+[ *Más información sobre este tema la encontrarás en el* [***Manual de IA***](../EN/AI-manual-en.md), *que está escrito en inglés y contiene un análisis más detallado del tema.* ]
 
 <small>Traducido del original checo por ChatGPT.</small>  
 [<small>Otros idiomas:</small>](../README.md)  
@@ -14,10 +14,10 @@ IA, o inteligencia artificial (del inglés "Artificial Intelligence"), es un té
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Así que no temas a la IA: no es un monstruo, sino una herramienta para el desar
 
 18.8.2024 Sudip2708
 
-[*Volver al contenido*](#Contenido) • [*Enlace al manual principal*](../EN/Manual_for_AI.md)
+[*Volver al contenido*](#Contenido) • [*Enlace al manual principal*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Así que no temas a la IA: no es un monstruo, sino una herramienta para el desar
 - He escrito este texto, pero me parece demasiado largo. ¿Podrías acortarlo manteniendo toda la información importante?
 - ¿Cómo redactar correctamente un currículum y una carta de presentación para este anuncio?
 
-[*Volver al contenido*](#Contenido) • [*Enlace al manual principal*](../EN/Manual_for_AI.md)
+[*Volver al contenido*](#Contenido) • [*Enlace al manual principal*](../EN/AI-manual-en.md)
 
 ---

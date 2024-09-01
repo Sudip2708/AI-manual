@@ -4,7 +4,7 @@
 
 AI, 즉 인공지능(영어로 "Artificial Intelligence"의 약자)은 요즘 점점 더 자주 듣게 되는 용어입니다. 하지만 그것이 정확히 무엇을 의미할까요? 인공지능에 대해 아직 많이 알지 못하는 분들을 위해 다음의 내용이 준비되었습니다.
 
-[ *이 주제에 대한 자세한 정보는 영어로 작성된* [***AI 매뉴얼***](../EN/Manual_for_AI.md) *에서 확인하실 수 있습니다.* ]
+[ *이 주제에 대한 자세한 정보는 영어로 작성된* [***AI 매뉴얼***](../EN/AI-manual-en.md) *에서 확인하실 수 있습니다.* ]
 
 <small>체코어 원본에서 ChatGPT가 번역했습니다.</small>  
 [<small>다른 언어:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI, 즉 인공지능(영어로 "Artificial Intelligence"의 약자)은 요즘 �
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ AI가 변화시키고 있는 분야는 무궁무진하며, 그 영향력은 다�
 
 2024년 8월 18일 Sudip2708
 
-[*목차로 돌아가기*](#목차) • [*주요 매뉴얼 링크*](../EN/Manual_for_AI.md)
+[*목차로 돌아가기*](#목차) • [*주요 매뉴얼 링크*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ AI가 변화시키고 있는 분야는 무궁무진하며, 그 영향력은 다�
 - 내가 작성한 이 문서가 너무 길어 보이는데, 중요한 내용은 그대로 유지하면서 간략하게 줄여줄 수 있어?
 - 이 구인 광고를 위해 이력서와 지원서를 어떻게 작성해야 하는지 알려줄 수 있어?
 
-[*목차로 돌아가기*](#목차) • [*주요 매뉴얼 링크*](../EN/Manual_for_AI.md)
+[*목차로 돌아가기*](#목차) • [*주요 매뉴얼 링크*](../EN/AI-manual-en.md)
 
 ---

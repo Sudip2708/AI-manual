@@ -4,19 +4,19 @@
 
 AI, edo adimen artifiziala (ingelesezko "Artificial Intelligence" hitzetik), gaur egun gero eta gehiagotan entzuten dugun laburdura da. Baina zer esan nahi du benetan? Adimen artifizialari buruz oraindik ez baduzu asko ezagutzen, hurrengo lerroak zuentzat dira.
 
-[ *Informazio gehiago gaiaz* [***AI Manual***](../EN/Manual_for_AI.md) *ingelesez idatzita dago eta gaiaren xehetasun gehiagoren analisia eskaintzen du.* ]
+[ *Informazio gehiago gaiaz* [***AI Manual***](../EN/AI-manual-en.md) *ingelesez idatzita dago eta gaiaren xehetasun gehiagoren analisia eskaintzen du.* ]
 
-<small>Txekiar jatorrizkotik itzulia ChatGPT-k.</small>
+<small>Txekiar jatorrizkotik itzulia ChatGPT-k.</small>  
 [<small>Beste hizkuntzak:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Beraz, ez izan beldur AI-ri – ez da beldurgarria, baizik eta gure bizitzaren e
 
 2024ko abuztuak 18 Sudip2708
 
-[*Itzuli edukiaren atalean*](#Edikia) • [*Gidaren esteka nagusia*](../EN/Manual_for_AI.md)
+[*Itzuli edukiaren atalean*](#Edikia) • [*Gidaren esteka nagusia*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Beraz, ez izan beldur AI-ri – ez da beldurgarria, baizik eta gure bizitzaren e
 - Idatzi dudan testua luzegi iruditzen zait. Laburtu al dezakezu, guztia garrantzitsua mantenduz?
 - Nola idatzi behar da CV eta lan-eskaera hauen iragarkirako? 
 
-[*Itzuli edukiaren atalean*](#edukia) • [*Gidaren esteka nagusia*](../EN/Manual_for_AI.md)
+[*Itzuli edukiaren atalean*](#edukia) • [*Gidaren esteka nagusia*](../EN/AI-manual-en.md)
 
 ---

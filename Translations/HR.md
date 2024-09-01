@@ -4,19 +4,19 @@
 
 AI ili umjetna inteligencija (iz engleskog "Artificial Intelligence") je kratica koju danas sve češće čujemo. No što to zapravo znači? Ako još uvijek ne znate mnogo o umjetnoj inteligenciji, sljedeće retke smo pripremili upravo za vas.
 
-[ *Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/Manual_for_AI.md), *koji je napisan na engleskom jeziku i sadrži detaljniju razradu teme.* ]
+[ *Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/AI-manual-en.md), *koji je napisan na engleskom jeziku i sadrži detaljniju razradu teme.* ]
 
-<small>Prevoditelj: ChatGPT.</small>
+<small>Prevoditelj: ChatGPT.</small>  
 [<small>Ostali jezici:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Ne bojte se AI – to nije strašilo, već alat za razvoj i poboljšanje ne samo
 
 18.8.2024 Sudip2708
 
-[*Natrag na sadržaj*](#Sadržaj)  • [*Link na glavni priručnik*](../EN/Manual_for_AI.md)
+[*Natrag na sadržaj*](#Sadržaj)  • [*Link na glavni priručnik*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ Ne bojte se AI – to nije strašilo, već alat za razvoj i poboljšanje ne samo
 - Napisao sam ovaj tekst, ali mi se čini predugim. Možeš li ga skratiti tako da sve bitno ostane?
 - Kako pravilno formulirati životopis i prijavu za posao za ovaj oglas?
 
-[*Natrag na sadržaj*](#Sadržaj) • [*Link na glavni priručnik*](../EN/Manual_for_AI.md)
+[*Natrag na sadržaj*](#Sadržaj) • [*Link na glavni priručnik*](../EN/AI-manual-en.md)
 
 ---
 

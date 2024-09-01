@@ -4,9 +4,9 @@
 
 AI, or Artificial Intelligence, is a term we hear more and more often these days. But what does it actually mean? If you're not very familiar with artificial intelligence yet, the following lines are just for you.
 
-[ *For more information on this topic, you can check out the* [***AI Manual***](../EN/Manual_for_AI.md), *which is written in English and provides a more detailed analysis.* ]
+[ *For more information on this topic, you can check out the* [***AI Manual***](../EN/AI-manual-en.md), *which is written in English and provides a more detailed analysis.* ]
 
-<small>Translated from the original Czech by ChatGPT.</small>
+<small>Translated from the original Czech by ChatGPT.</small>  
 [<small>Other languages:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI, or Artificial Intelligence, is a term we hear more and more often these days
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -371,7 +371,7 @@ So don’t be afraid of AI—it’s not a boogeyman but a tool for development a
 
 August 18, 2024 Sudip2708
 
-[*Back to Contents*](#contents) • [*Link to Main Manual*](../EN/Manual_for_AI.md)
+[*Back to Contents*](#contents) • [*Link to Main Manual*](../EN/AI-manual-en.md)
 
 ---
 
@@ -449,6 +449,6 @@ August 18, 2024 Sudip2708
 - I wrote this text, but it seems too long. Can you shorten it while keeping all the essential information?
 - How should I properly format a resume and job application for this job posting?
 
-[*Back to Contents*](#contents) • [*Link to Main Manual*](../EN/Manual_for_AI.md)
+[*Back to Contents*](#contents) • [*Link to Main Manual*](../EN/AI-manual-en.md)
 
 ---

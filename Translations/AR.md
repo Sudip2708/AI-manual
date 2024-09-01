@@ -5,7 +5,7 @@
 
 الذكاء الاصطناعي (AI)، هو اختصار لعبارة "Artificial Intelligence" باللغة الإنجليزية، وهو مصطلح نسمع عنه بشكل متزايد في الوقت الحاضر. ولكن ماذا يعني هذا بالضبط؟ إذا كنت لا تعرف الكثير عن الذكاء الاصطناعي حتى الآن، فإن الأسطر التالية مخصصة لك.
 
-[ *لمزيد من المعلومات حول هذا الموضوع يمكنك العثور على* [***دليل الذكاء الاصطناعي***](../EN/Manual_for_AI.md), *الذي كُتب باللغة الإنجليزية ويحتوي على تحليل مفصل للموضوع.* ]
+[ *لمزيد من المعلومات حول هذا الموضوع يمكنك العثور على* [***دليل الذكاء الاصطناعي***](../EN/AI-manual-en.md), *الذي كُتب باللغة الإنجليزية ويحتوي على تحليل مفصل للموضوع.* ]
 
 <small>ترجمة من النسخة التشيكية بواسطة ChatGPT.</small>  
 [<small>اللغات الأخرى:</small>](../README.md)  
@@ -15,10 +15,10 @@
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@
 
 18.8.2024 Sudip2708
 
-[*العودة إلى المحتويات*](#المحتويات) • [*رابط إلى الدليل الرئيسي*](../EN/Manual_for_AI.md)
+[*العودة إلى المحتويات*](#المحتويات) • [*رابط إلى الدليل الرئيسي*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@
 - كتبت هذا النص، لكنه يبدو طويلاً جدًا. هل يمكنك اختصاره بحيث يبقى كل ما هو مهم؟
 - كيف يمكن صياغة السيرة الذاتية وطلب الوظيفة بشكل صحيح لهذا الإعلان؟
 
-[*العودة إلى المحتويات*](#المحتويات) • [*رابط إلى الدليل الرئيسي*](../EN/Manual_for_AI.md)
+[*العودة إلى المحتويات*](#المحتويات) • [*رابط إلى الدليل الرئيسي*](../EN/AI-manual-en.md)
 
 ---
 

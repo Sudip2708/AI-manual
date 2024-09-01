@@ -53,7 +53,7 @@ Katalánština,
 Baskičtina,
 Slovinština,
 Rumunština,
-USAčtina
+USAčtina.
 
 
 
@@ -63,14 +63,13 @@ Ahojky, pracujeme spolu na překladech námi vytvořeného manuálu pro použív
 Prosím tedy přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 1/13:
 
 ## Úvod do AI pro začátečníky
 
 AI neboli umělá inteligence (z anglického "Artificial Intelligence"), je zkratka, kterou dnes slýcháme stále častěji. Ale co vlastně znamená? Pokud o umělé inteligenci zatím mnoho nevíte, následující řádky jsou určeny právě vám.
 
-[ *Více informací na toto téma pak najdete v samotném* [***AI Manual***](../EN/Manual_for_AI.md), *který je psaný v angličtině a obsahuje podrobnější rozbor tématu.* ]
+[ *Více informací na toto téma pak najdete v samotném* [***AI Manual***](../EN/AI-manual-en.md), *který je psaný v angličtině a obsahuje podrobnější rozbor tématu.* ]
 
 <small>Z českého originálu přeložil ChatGPT.</small>
 [<small>Další jazyky:</small>](../README.md)
@@ -99,7 +98,6 @@ AI neboli umělá inteligence (z anglického "Artificial Intelligence"), je zkra
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 2/13:
 
 ### Jak se stane vysavač inteligentním
@@ -131,7 +129,6 @@ A pokud by takový vysavač sdílel svá data s ostatními vysavači přes centr
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 3/13:
 
 
@@ -158,7 +155,6 @@ A jak tomu všemu můžete pomoci i vy? Třeba tím, že se začnete alespoň tr
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 4/13:
 
 
@@ -189,7 +185,6 @@ S AI tedy nejen získáváte kuchařku, která nejenže má přehled o všech mo
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 5/13:
 
 
@@ -210,7 +205,6 @@ AI tak můžeme vnímat i jako počítač kosmické lodi a užít si tak to, co 
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 6/13:
 
 
@@ -241,7 +235,6 @@ Lepším přístupem je tedy zakládat pro každý den nebo pro každou novou ob
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 7/13:
 
 ### Jak se AI učí
@@ -274,7 +267,6 @@ AI se tak neustále vyvíjí a zlepšuje díky kombinaci předchozího tréninku
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 8/13:
 
 
@@ -319,7 +311,6 @@ Další dobrou praxí je poskytovat AI zpětnou vazbu o tom, jak jste spokojený
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 9/13:
 
 
@@ -364,7 +355,6 @@ Jeho největším mínusem je, že nemá variantu, která by byla nabízena zcel
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 10/13:
 
 
@@ -423,7 +413,6 @@ Jsem zde, abych pomáhal a spolupracoval, nikoli abych nahrazoval lidské schopn
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 11/13:
 
 ### S čím může AI pomoci:
@@ -466,7 +455,6 @@ Některé AI dnes již plní roli osobního asistenta, který hlídá důležit�
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 12/13:
 
 
@@ -491,7 +479,7 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 
 18.8.2024 Sudip2708
 
-[*Zpět na obsah*](#Obsah) • [*Odkaz na hlavní manuál*](../EN/Manual_for_AI.md)
+[*Zpět na obsah*](#obsah) • [*Odkaz na hlavní manuál*](../EN/AI-manual-en.md)
 
 ---
 
@@ -500,7 +488,6 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
-Prosím o překlad pro americké publikum do americké angličtiny:
 Zde je část 13/13:
 
 
@@ -578,7 +565,7 @@ Zde je část 13/13:
 - Napsal jsem tento text, ale přijde mi příliš dlouhý. Můžeš ho zkrátit tak, aby tam vše podstatné zůstalo?
 - Jak správně formulovat životopis a žádost o práci pro tento inzerát?
 
-[*Zpět na obsah*](#Obsah) • [*Odkaz na hlavní manuál*](../EN/Manual_for_AI.md)
+[*Zpět na obsah*](#obsah) • [*Odkaz na hlavní manuál*](../EN/AI-manual-en.md)
 
 ---
 

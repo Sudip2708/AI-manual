@@ -4,7 +4,7 @@
 
 Az AI, azaz mesterséges intelligencia (angolul "Artificial Intelligence"), egy olyan rövidítés, amit ma egyre gyakrabban hallunk. De mit jelent valójában? Ha még nem tud sokat a mesterséges intelligenciáról, a következő sorok önnek szólnak.
 
-[ *További információkat erről a témáról az angol nyelvű* [***AI Manual***](../EN/Manual_for_AI.md) *kézikönyvben talál, amely részletesebb elemzést tartalmaz a témáról.* ]
+[ *További információkat erről a témáról az angol nyelvű* [***AI Manual***](../EN/AI-manual-en.md) *kézikönyvben talál, amely részletesebb elemzést tartalmaz a témáról.* ]
 
 <small>A cseh eredetiből fordította ChatGPT.</small>  
 [<small>További nyelvek:</small>](../README.md)  
@@ -14,10 +14,10 @@ Az AI, azaz mesterséges intelligencia (angolul "Artificial Intelligence"), egy 
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Ne féljen tehát az AI-tól – nem egy rém, hanem egy eszköz a fejlődéshez
 
 2024.08.18 Sudip2708
 
-[*Vissza a tartalomhoz*](#tartalom) • [*Link a fő kézikönyvre*](../EN/Manual_for_AI.md)
+[*Vissza a tartalomhoz*](#tartalom) • [*Link a fő kézikönyvre*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Ne féljen tehát az AI-tól – nem egy rém, hanem egy eszköz a fejlődéshez
 - Írtam egy szöveget, de túl hosszúnak találom. Le tudnád rövidíteni, hogy a lényeg benne maradjon?
 - Hogyan kell megfelelően megfogalmazni az önéletrajzot és a munkaköri kérelmet ehhez a hirdetéshez?
 
-[*Vissza a tartalomhoz*](#tartalom) • [*Link a fő kézikönyvre*](../EN/Manual_for_AI.md)
+[*Vissza a tartalomhoz*](#tartalom) • [*Link a fő kézikönyvre*](../EN/AI-manual-en.md)
 
 ---

@@ -4,7 +4,7 @@
 
 AI, teda umelá inteligencia (z anglického "Artificial Intelligence"), je skratka, ktorú dnes počujeme stále častejšie. Ale čo vlastne znamená? Ak o umelej inteligencii zatiaľ veľa neviete, nasledujúce riadky sú určené práve vám.
 
-[ *Viac informácií na toto téma nájdete v samotnom* [***AI Manual***](../EN/Manual_for_AI.md), *ktorý je písaný v angličtine a obsahuje podrobnejší rozbor témy.* ]
+[ *Viac informácií na toto téma nájdete v samotnom* [***AI Manual***](../EN/AI-manual-en.md), *ktorý je písaný v angličtine a obsahuje podrobnejší rozbor témy.* ]
 
 <small>Z českého originálu preložil ChatGPT.</small>  
 [<small>Ďalšie jazyky:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI, teda umelá inteligencia (z anglického "Artificial Intelligence"), je skrat
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Nebojte sa teda AI – nie je to strašiak, ale nástroj na rozvoj a zlepšenie 
 
 18.8.2024 Sudip2708
 
-[*Späť na obsah*](#Obsah) • [*Odkaz na hlavný manuál*](../EN/Manual_for_AI.md)
+[*Späť na obsah*](#Obsah) • [*Odkaz na hlavný manuál*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Nebojte sa teda AI – nie je to strašiak, ale nástroj na rozvoj a zlepšenie 
 - Napísal som tento text, ale zdá sa mi príliš dlhý. Môžeš ho skrátiť tak, aby tam všetko podstatné zostalo?
 - Ako správne formulovať životopis a žiadosť o prácu pre tento inzerát?
 
-[*Späť na obsah*](#Obsah) • [*Odkaz na hlavný manuál*](../EN/Manual_for_AI.md)
+[*Späť na obsah*](#Obsah) • [*Odkaz na hlavný manuál*](../EN/AI-manual-en.md)
 
 ---

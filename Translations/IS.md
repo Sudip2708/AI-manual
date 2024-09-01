@@ -4,9 +4,9 @@
 
 AI eða gervigreind (frá enska orðinu "Artificial Intelligence") er skammstöfun sem við heyrum sífellt oftar nú til dags. En hvað þýðir það í raun? Ef þú veist ekki mikið um gervigreind ennþá, þá eru eftirfarandi línur sérstaklega fyrir þig.
 
-[ *Fleiri upplýsingar um þetta efni finnur þú í sjálfu* [***AI Manual***](../EN/Manual_for_AI.md), *sem er skrifað á ensku og inniheldur ítarlegri úttekt á málefninu.* ]
+[ *Fleiri upplýsingar um þetta efni finnur þú í sjálfu* [***AI Manual***](../EN/AI-manual-en.md), *sem er skrifað á ensku og inniheldur ítarlegri úttekt á málefninu.* ]
 
-<small>Frá íslensku upprunanum þýtt af ChatGPT.</small>
+<small>Frá íslensku upprunanum þýtt af ChatGPT.</small>  
 [<small>Önnur tungumál:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI eða gervigreind (frá enska orðinu "Artificial Intelligence") er skammstöf
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Ekki óttast AI – það er ekki skrímsli, heldur verkfæri til að þróa og 
 
 18.8.2024 Sudip2708
 
-[*Til baka í efnisyfirlit*](#efnisyfirlit)  • [*Tengill á aðalhandbók*](../EN/Manual_for_AI.md)
+[*Til baka í efnisyfirlit*](#efnisyfirlit)  • [*Tengill á aðalhandbók*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Ekki óttast AI – það er ekki skrímsli, heldur verkfæri til að þróa og 
 - Ég skrifaði þennan texta en mér finnst hann of langur. Geturðu stytt hann svo allt sem skiptir máli verði áfram?
 - Hvernig á að útfæra ferilskrá og vinnuumsókn fyrir þessa auglýsingu?
 
-[*Til baka í efnisyfirlit*](#efnisyfirlit) • [*Tengill á aðalhandbók*](../EN/Manual_for_AI.md)
+[*Til baka í efnisyfirlit*](#efnisyfirlit) • [*Tengill á aðalhandbók*](../EN/AI-manual-en.md)
 
 ---

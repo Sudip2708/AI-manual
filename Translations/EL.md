@@ -4,7 +4,7 @@
 
 Η Τεχνητή Νοημοσύνη (ή AI από τα αγγλικά "Artificial Intelligence") είναι ένας όρος που ακούμε όλο και πιο συχνά σήμερα. Αλλά τι σημαίνει πραγματικά; Εάν δεν γνωρίζετε πολλά για την τεχνητή νοημοσύνη, οι επόμενες γραμμές είναι ακριβώς για εσάς.
 
-[ *Περισσότερες πληροφορίες για το θέμα μπορείτε να βρείτε στο* [***AI Manual***](../EN/Manual_for_AI.md), *που είναι γραμμένο στα αγγλικά και περιλαμβάνει μια πιο αναλυτική ανάλυση του θέματος.* ]
+[ *Περισσότερες πληροφορίες για το θέμα μπορείτε να βρείτε στο* [***AI Manual***](../EN/AI-manual-en.md), *που είναι γραμμένο στα αγγλικά και περιλαμβάνει μια πιο αναλυτική ανάλυση του θέματος.* ]
 
 <small>Μετάφραση από το πρωτότυπο στα Τσεχικά από το ChatGPT.</small>  
 [<small>Άλλες γλώσσες:</small>](../README.md)  
@@ -14,10 +14,10 @@
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -369,7 +369,7 @@
 
 18.8.2024 Sudip2708
 
-[*Επιστροφή στο περιεχόμενο*](#Περιεχόμενα)  • [*Σύνδεσμος προς τον κύριο οδηγό*](../EN/Manual_for_AI.md)
+[*Επιστροφή στο περιεχόμενο*](#Περιεχόμενα)  • [*Σύνδεσμος προς τον κύριο οδηγό*](../EN/AI-manual-en.md)
 
 ---
 
@@ -447,6 +447,6 @@
 - Έχω γράψει αυτό το κείμενο, αλλά φαίνεται πολύ μακρύ. Μπορείς να το συντομεύσεις έτσι ώστε να παραμείνουν όλα τα σημαντικά στοιχεία;
 - Πώς να συντάξω ένα βιογραφικό και μια αίτηση για εργασία για αυτή την αγγελία;
 
-[*Επιστροφή στο περιεχόμενο*](#Περιεχόμενα) • [*Σύνδεσμος προς τον κύριο οδηγό*](../EN/Manual_for_AI.md)
+[*Επιστροφή στο περιεχόμενο*](#Περιεχόμενα) • [*Σύνδεσμος προς τον κύριο οδηγό*](../EN/AI-manual-en.md)
 
 ---

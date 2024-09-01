@@ -4,7 +4,7 @@
 
 IA, ou inteligência artificial (de "Artificial Intelligence" em inglês), é uma sigla que ouvimos cada vez mais frequentemente. Mas o que isso realmente significa? Se você ainda não sabe muito sobre inteligência artificial, as linhas seguintes são feitas especialmente para você.
 
-[ *Mais informações sobre este tema podem ser encontradas no* [***Manual de IA***](../EN/Manual_for_AI.md), *que está escrito em inglês e contém uma análise mais detalhada do assunto.* ]
+[ *Mais informações sobre este tema podem ser encontradas no* [***Manual de IA***](../EN/AI-manual-en.md), *que está escrito em inglês e contém uma análise mais detalhada do assunto.* ]
 
 <small>Traduzido do original checo por ChatGPT.</small>  
 [<small>Outros idiomas:</small>](../README.md)  
@@ -14,10 +14,10 @@ IA, ou inteligência artificial (de "Artificial Intelligence" em inglês), é um
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Portanto, não tema a IA – ela não é um bicho-papão, mas uma ferramenta par
 
 18.8.2024 Sudip2708
 
-[*Voltar ao conteúdo*](#conteúdo)  • [*Link para o manual principal*](../EN/Manual_for_AI.md)
+[*Voltar ao conteúdo*](#conteúdo)  • [*Link para o manual principal*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Portanto, não tema a IA – ela não é um bicho-papão, mas uma ferramenta par
 - Escrevi este texto, mas acho que está muito longo. Você pode resumir para que o essencial permaneça?
 - Como formatar corretamente um currículo e uma carta de apresentação para este anúncio?
 
-[*Voltar ao conteúdo*](#Conteúdo) • [*Link para o manual principal*](../EN/Manual_for_AI.md)
+[*Voltar ao conteúdo*](#Conteúdo) • [*Link para o manual principal*](../EN/AI-manual-en.md)
 
 ---

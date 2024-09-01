@@ -4,9 +4,9 @@
 
 AI arba dirbtinis intelektas (iš anglų kalbos „Artificial Intelligence“) yra santrumpa, kurią šiandien girdime vis dažniau. Bet ką tai iš tikrųjų reiškia? Jei dar daug nežinote apie dirbtinį intelektą, šios eilutės yra skirtos būtent jums.
 
-[ *Daugiau informacijos apie šią temą rasite pačiame* [***AI Manual***](../EN/Manual_for_AI.md), *kuris parašytas anglų kalba ir pateikia išsamesnę tematikos analizę.* ]
+[ *Daugiau informacijos apie šią temą rasite pačiame* [***AI Manual***](../EN/AI-manual-en.md), *kuris parašytas anglų kalba ir pateikia išsamesnę tematikos analizę.* ]
 
-<small>Iš čekų kalbos išvertė ChatGPT.</small>
+<small>Iš čekų kalbos išvertė ChatGPT.</small>  
 [<small>Kitos kalbos:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI arba dirbtinis intelektas (iš anglų kalbos „Artificial Intelligence“) y
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Nebijokite AI – tai ne baubas, bet įrankis, kuris gali prisidėti prie mūsų
 
 2024 m. rugpjūčio 18 d. Sudip2708
 
-[*Grįžti į turinį*](#turinys)  • [*Nuoroda į pagrindinį vadovą*](../EN/Manual_for_AI.md)
+[*Grįžti į turinį*](#turinys)  • [*Nuoroda į pagrindinį vadovą*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Nebijokite AI – tai ne baubas, bet įrankis, kuris gali prisidėti prie mūsų
 - Parašiau šį tekstą, bet jis atrodo per ilgas. Ar galėtum jį sutrumpinti, kad visa svarbi informacija liktų?
 - Kaip tinkamai suformuluoti gyvenimo aprašymą ir darbo prašymą šiam skelbimui?
 
-[*Grįžti į turinį*](#turinys) • [*Nuoroda į pagrindinį vadovą*](../EN/Manual_for_AI.md)
+[*Grįžti į turinį*](#turinys) • [*Nuoroda į pagrindinį vadovą*](../EN/AI-manual-en.md)
 
 ---

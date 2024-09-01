@@ -4,7 +4,7 @@
 
 人工智能（AI，即“Artificial Intelligence”的缩写），是我们现在越来越频繁听到的一个术语。那么它究竟是什么意思呢？如果你对人工智能还不太了解，接下来的文字正适合你阅读。
 
-[ *更多信息请参阅* [***AI 手册***](../EN/Manual_for_AI.md), *该手册用英语编写，并包含了更详细的主题分析。* ]
+[ *更多信息请参阅* [***AI 手册***](../EN/AI-manual-en.md), *该手册用英语编写，并包含了更详细的主题分析。* ]
 
 <small>由ChatGPT从捷克语原版翻译。</small>  
 [<small>更多语言：</small>](../README.md)  
@@ -14,10 +14,10 @@
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -371,7 +371,7 @@ AI 改变的领域可以列举很多，因为其影响广泛而多样。例如�
 
 2024年8月18日 Sudip2708
 
-[*返回目录*](#目录)  • [*主手册链接*](../EN/Manual_for_AI.md)
+[*返回目录*](#目录)  • [*主手册链接*](../EN/AI-manual-en.md)
 
 ---
 
@@ -449,7 +449,7 @@ AI 改变的领域可以列举很多，因为其影响广泛而多样。例如�
 - 我写了这篇文章，但觉得它太长了。你能缩短它，让所有重要信息都保留下来吗？
 - 如何根据这个广告正确地撰写简历和求职信？
 
-[*返回目录*](#目录) • [*主手册链接*](../EN/Manual_for_AI.md)
+[*返回目录*](#目录) • [*主手册链接*](../EN/AI-manual-en.md)
 
 ---
 

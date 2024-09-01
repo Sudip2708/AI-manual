@@ -4,9 +4,9 @@
 
 Umetna inteligenca (v angleščini "Artificial Intelligence" ali AI) je kratica, ki jo danes slišimo vse pogosteje. Ampak kaj to dejansko pomeni? Če o umetni inteligenci še nimate veliko znanja, so naslednje vrstice namenjene prav vam.
 
-[ *Več informacij na to temo boste našli v samem* [***AI Manual***](../EN/Manual_for_AI.md), *ki je napisan v angleščini in vsebuje podrobnejšo obravnavo teme.* ]
+[ *Več informacij na to temo boste našli v samem* [***AI Manual***](../EN/AI-manual-en.md), *ki je napisan v angleščini in vsebuje podrobnejšo obravnavo teme.* ]
 
-<small>Iz češkega izvirnika prevedel ChatGPT.</small>
+<small>Iz češkega izvirnika prevedel ChatGPT.</small>  
 [<small>Drugi jeziki:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ Umetna inteligenca (v angleščini "Artificial Intelligence" ali AI) je kratica,
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Ne bojte se torej AI – ni to strašilo, ampak orodje za razvoj in izboljšanje
 
 18.8.2024 Sudip2708
 
-[*Nazaj na vsebino*](#vsebina) • [*Povezava na glavni priročnik*](../EN/Manual_for_AI.md)
+[*Nazaj na vsebino*](#vsebina) • [*Povezava na glavni priročnik*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Ne bojte se torej AI – ni to strašilo, ampak orodje za razvoj in izboljšanje
 - Napisal sem ta tekst, vendar se mi zdi predolg. Ali ga lahko skrajšaš, da bo vse bistveno ostalo?
 - Kako pravilno oblikovati življenjepis in prošnjo za delo za ta oglas?
 
-[*Nazaj na vsebino*](#vsebina) • [*Povezava na glavni priročnik*](../EN/Manual_for_AI.md)
+[*Nazaj na vsebino*](#vsebina) • [*Povezava na glavni priročnik*](../EN/AI-manual-en.md)
 
 ---

@@ -4,19 +4,19 @@
 
 La IA, o intel·ligència artificial (de l'anglès "Artificial Intelligence"), és una abreviatura que avui en dia escoltem cada cop més sovint. Però què significa realment? Si encara no sabeu gaire sobre intel·ligència artificial, les línies següents són per a vosaltres.
 
-[ *Podeu trobar més informació sobre aquest tema en el mateix* [***Manual d'IA***](../EN/Manual_for_AI.md), *que està escrit en anglès i conté una anàlisi més detallada del tema.* ]
+[ *Podeu trobar més informació sobre aquest tema en el mateix* [***Manual d'IA***](../EN/AI-manual-en.md), *que està escrit en anglès i conté una anàlisi més detallada del tema.* ]
 
-<small>Traduït del text original en txec per ChatGPT.</small>
+<small>Traduït del text original en txec per ChatGPT.</small>  
 [<small>Altres idiomes:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Per tant, no tingueu por de l'IA – no és un monstre, sinó una eina per al de
 
 18.8.2024 Sudip2708
 
-[*Tornar al contingut*](#Contingut) • [*Enllaç al manual principal*](../EN/Manual_for_AI.md)
+[*Tornar al contingut*](#Contingut) • [*Enllaç al manual principal*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ Per tant, no tingueu por de l'IA – no és un monstre, sinó una eina per al de
 - He escrit aquest text, però em sembla massa llarg. Podries escurçar-lo mantenint-hi la informació important?
 - Com s'ha de redactar un currículum i una sol·licitud de feina per a aquesta oferta?
 
-[*Tornar al contingut*](#Contingut) • [*Enllaç al manual principal*](../EN/Manual_for_AI.md)
+[*Tornar al contingut*](#Contingut) • [*Enllaç al manual principal*](../EN/AI-manual-en.md)
 
 ---
 

@@ -4,7 +4,7 @@
 
 L'IA, ou intelligence artificielle (de l'anglais "Artificial Intelligence"), est un acronyme que nous entendons de plus en plus souvent aujourd'hui. Mais que signifie réellement ce terme ? Si vous ne savez pas encore grand-chose sur l'intelligence artificielle, les lignes suivantes sont faites pour vous.
 
-[ *Pour plus d'informations sur le sujet, vous pouvez consulter le* [***AI Manual***](../EN/Manual_for_AI.md), *qui est écrit en anglais et fournit une analyse plus détaillée du sujet.* ]
+[ *Pour plus d'informations sur le sujet, vous pouvez consulter le* [***AI Manual***](../EN/AI-manual-en.md), *qui est écrit en anglais et fournit une analyse plus détaillée du sujet.* ]
 
 <small>Traduit de l'original tchèque par ChatGPT.</small>  
 [<small>Autres langues:</small>](../README.md)  
@@ -14,10 +14,10 @@ L'IA, ou intelligence artificielle (de l'anglais "Artificial Intelligence"), est
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/KA.png" alt="Georgian Flag" style="height: 20px;">](../Translations/KA.md)
@@ -370,7 +370,7 @@ N'ayez donc pas peur de l'IA – ce n'est pas un monstre, mais un outil pour le 
 
 18.8.2024 Sudip2708
 
-[*Retour au contenu*](#table-des-matières) • [*Lien vers le manuel principal*](../EN/Manual_for_AI.md)
+[*Retour au contenu*](#table-des-matières) • [*Lien vers le manuel principal*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ N'ayez donc pas peur de l'IA – ce n'est pas un monstre, mais un outil pour le 
 - J'ai écrit ce texte, mais il me semble trop long. Peux-tu le raccourcir en gardant l'essentiel ?
 - Comment rédiger correctement un CV et une lettre de motivation pour cette annonce ?
 
-[*Retour au contenu*](#table-des-matières) • [*Lien vers le manuel principal*](../EN/Manual_for_AI.md)
+[*Retour au contenu*](#table-des-matières) • [*Lien vers le manuel principal*](../EN/AI-manual-en.md)
 
 ---

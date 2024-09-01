@@ -4,9 +4,9 @@
 
 AI, neu deallusrwydd artiffisial (o'r Saesneg "Artificial Intelligence"), yw'r byrddau a glywn ni'n gynyddol fwyfwy heddiw. Ond beth mae'n ei olygu yn wirioneddol? Os nad ydych chi'n gwybod llawer am deallusrwydd artiffisial eto, mae'r llinellau canlynol yn cael eu hanelu atoch chi.
 
-[ *Bydd mwy o wybodaeth ar y pwnc hwn yn cael ei ddod o hyd yn* [***AI Manual***](../EN/Manual_for_AI.md), *sy'n cael ei ysgrifennu yn Saesneg ac yn cynnwys dadansoddiad manwl o'r pwnc.* ]
+[ *Bydd mwy o wybodaeth ar y pwnc hwn yn cael ei ddod o hyd yn* [***AI Manual***](../EN/AI-manual-en.md), *sy'n cael ei ysgrifennu yn Saesneg ac yn cynnwys dadansoddiad manwl o'r pwnc.* ]
 
-<small>Cyfieithwyd o'r fersiwn Gaseg gan ChatGPT.</small>
+<small>Cyfieithwyd o'r fersiwn Gaseg gan ChatGPT.</small>  
 [<small>Ieithoedd eraill:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI, neu deallusrwydd artiffisial (o'r Saesneg "Artificial Intelligence"), yw'r b
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Felly, peidiwch â phoeni am AI – nid yw’n bogey, ond yn offeryn i ddatblygu
 
 18.8.2024 Sudip2708
 
-[*Yn ôl i’r cynnwys*](#cynnwys)  • [*Cyswllt â’r llawlyfr prif*](../EN/Manual_for_AI.md)
+[*Yn ôl i’r cynnwys*](#cynnwys)  • [*Cyswllt â’r llawlyfr prif*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Felly, peidiwch â phoeni am AI – nid yw’n bogey, ond yn offeryn i ddatblygu
 - Ysgrifennais y testun hwn, ond mae’n ymddangos yn rhy hir. A allwch chi ei fyrhau er mwyn cadw’r pwyntiau allweddol?
 - Sut i ffurfio CV a chais am swydd ar gyfer yr hysbyseb hon?
 
-[*Yn ôl i’r cynnwys*](#cynnwys) • [*Cyswllt â’r llawlyfr prif*](../EN/Manual_for_AI.md)
+[*Yn ôl i’r cynnwys*](#cynnwys) • [*Cyswllt â’r llawlyfr prif*](../EN/AI-manual-en.md)
 
 ---

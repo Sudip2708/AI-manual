@@ -4,19 +4,19 @@
 
 AI-ն կամ արհեստական ինտելեկտը (անգլերենից՝ "Artificial Intelligence"), համարճագում է, որը այսօր լսվում է ամենալավըն ձայնով: Բայց ի՞նչ է իրականում նշանակում: Եթե արհեստական ինտելեկտի մասին դեռ շատ չեք գիտենում, հետևյալ տողերը նախատեսված են հենց ձեզ համար:
 
-[ *Այլ տեղեկություններ այս թեմայի վերաբերյալ կարող եք գտնել հենց* [***AI Manual***](../EN/Manual_for_AI.md), *որն անգլերենով է և ավելի մանրամասն քննարկում է թեման:* ]
+[ *Այլ տեղեկություններ այս թեմայի վերաբերյալ կարող եք գտնել հենց* [***AI Manual***](../EN/AI-manual-en.md), *որն անգլերենով է և ավելի մանրամասն քննարկում է թեման:* ]
 
-<small>Չեխական բնօրինակից թարգմանեց ChatGPT:</small>
+<small>Չեխական բնօրինակից թարգմանեց ChatGPT:</small>  
 [<small>Այլ լեզուներ:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ AI-ի ազդեցությունը կարող է շարունակվել երկար
 
 18.8.2024 Sudip2708
 
-[*Վերադառնալ բովանդակություն*](#բովանդակություն) • [*Հղում հիմնական ձեռնարկին*](../EN/Manual_for_AI.md)
+[*Վերադառնալ բովանդակություն*](#բովանդակություն) • [*Հղում հիմնական ձեռնարկին*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ AI-ի ազդեցությունը կարող է շարունակվել երկար
 - Գրել եմ այս տեքստը, բայց այն շատ երկար է թվում: Կարո՞ղ ե՞ս կրճատել այն այնպես, որ բոլոր կարևոր բաները մնան:
 - Ինչպես ճիշտ ձևակերպել կենսագրությունը և աշխատանքի հայտը այս հայտարարության համար:
 
-[*Վերադառնալ բովանդակություն*](#բովանդակություն) • [*Հղում հիմնական ձեռնարկին*](../EN/Manual_for_AI.md)
+[*Վերադառնալ բովանդակություն*](#բովանդակություն) • [*Հղում հիմնական ձեռնարկին*](../EN/AI-manual-en.md)
 
 ---
 

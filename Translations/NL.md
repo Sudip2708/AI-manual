@@ -4,7 +4,7 @@
 
 AI, oftewel kunstmatige intelligentie (van het Engelse "Artificial Intelligence"), is een afkorting die we steeds vaker horen. Maar wat betekent het eigenlijk? Als je nog niet veel weet over kunstmatige intelligentie, zijn de volgende regels speciaal voor jou.
 
-[ *Meer informatie over dit onderwerp vind je in de* [***AI Manual***](../EN/Manual_for_AI.md), *dat in het Engels is geschreven en een gedetailleerdere analyse van het onderwerp bevat.* ]
+[ *Meer informatie over dit onderwerp vind je in de* [***AI Manual***](../EN/AI-manual-en.md), *dat in het Engels is geschreven en een gedetailleerdere analyse van het onderwerp bevat.* ]
 
 <small>Vertaald uit het Tsjechisch door ChatGPT.</small>  
 [<small>Andere talen:</small>](../README.md)  
@@ -14,9 +14,9 @@ AI, oftewel kunstmatige intelligentie (van het Engelse "Artificial Intelligence"
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Wees dus niet bang voor AI – het is geen boeman, maar een hulpmiddel voor ontw
 
 18.8.2024 Sudip2708
 
-[*Terug naar inhoud*](#inhoud) • [*Link naar de hoofdhandleiding*](../EN/Manual_for_AI.md)
+[*Terug naar inhoud*](#inhoud) • [*Link naar de hoofdhandleiding*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Wees dus niet bang voor AI – het is geen boeman, maar een hulpmiddel voor ontw
 - Ik heb deze tekst geschreven, maar hij lijkt me te lang. Kun je hem inkorten zodat alle belangrijke informatie blijft?
 - Hoe moet ik een cv en sollicitatiebrief formuleren voor deze vacature?
 
-[*Terug naar inhoud*](#inhoud) • [*Link naar de hoofdhandleiding*](../EN/Manual_for_AI.md)
+[*Terug naar inhoud*](#inhoud) • [*Link naar de hoofdhandleiding*](../EN/AI-manual-en.md)
 
 ---

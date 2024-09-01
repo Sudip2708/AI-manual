@@ -4,7 +4,7 @@
 
 AI eli tekoäly (englanniksi "Artificial Intelligence") on lyhenne, jota kuulemme tänä päivänä yhä useammin. Mutta mitä se itse asiassa tarkoittaa? Jos et vielä tiedä paljon tekoälystä, seuraavat rivit ovat juuri sinulle.
 
-[ *Lisätietoja tästä aiheesta löydät itse* [***AI Manual***](../EN/Manual_for_AI.md), *joka on kirjoitettu englanniksi ja sisältää tarkempaa käsittelyä aiheesta.* ]
+[ *Lisätietoja tästä aiheesta löydät itse* [***AI Manual***](../EN/AI-manual-en.md), *joka on kirjoitettu englanniksi ja sisältää tarkempaa käsittelyä aiheesta.* ]
 
 <small>Käännetty tšekinkielisestä alkuperäisestä ChatGPT.</small>  
 [<small>Muilla kielillä:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI eli tekoäly (englanniksi "Artificial Intelligence") on lyhenne, jota kuulemm
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
 [<img src="../Pictures/Flags/KA.png" alt="Georgian Flag" style="height: 20px;">](../Translations/KA.md)
@@ -370,7 +370,7 @@ Ja jos epätotuuksia, huijauksia ja valheita vähenee, uskon, että elämästä 
 
 18.8.2024 Sudip2708
 
-[*Takaisin sisältöön*](#Sisältö)  • [*Linkki pääoppaaseen*](../EN/Manual_for_AI.md)
+[*Takaisin sisältöön*](#Sisältö)  • [*Linkki pääoppaaseen*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Ja jos epätotuuksia, huijauksia ja valheita vähenee, uskon, että elämästä 
 - Kirjoitin tämän tekstin, mutta se vaikuttaa liian pitkältä. Voisitko lyhentää sen niin, että kaikki olennaiset asiat säilyvät?
 - Kuinka laatia ansioluettelo ja työhakemus tähän ilmoitukseen?
 
-[*Takaisin sisältöön*](#Sisältö) • [*Linkki pääoppaaseen*](../EN/Manual_for_AI.md)
+[*Takaisin sisältöön*](#Sisältö) • [*Linkki pääoppaaseen*](../EN/AI-manual-en.md)
 
 ---

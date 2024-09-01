@@ -4,21 +4,20 @@
 
 AI hay trí tuệ nhân tạo (viết tắt của "Artificial Intelligence" trong tiếng Anh) là một thuật ngữ ngày càng được nghe nhiều hơn. Nhưng thực chất nó có nghĩa là gì? Nếu bạn chưa biết nhiều về trí tuệ nhân tạo, những dòng sau đây chính là dành cho bạn.
 
-[ *Thông tin chi tiết về chủ đề này có thể được tìm thấy trong* [***AI Manual***](../EN/Manual_for_AI.md), *được viết bằng tiếng Anh và chứa phân tích chi tiết về chủ đề.* ]
+[ *Thông tin chi tiết về chủ đề này có thể được tìm thấy trong* [***AI Manual***](../EN/AI-manual-en.md), *được viết bằng tiếng Anh và chứa phân tích chi tiết về chủ đề.* ]
 
 <small>Dịch từ nguyên bản tiếng Séc bởi ChatGPT.</small>  
-[<small>Ngôn ngữ khác:</small>](../README.md)
-  
+[<small>Ngôn ngữ khác:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -371,7 +370,7 @@ Vì vậy, đừng sợ AI – nó không phải là một con quái vật, mà 
 
 18.8.2024 Sudip2708
 
-[*Trở về nội dung*](#nội-dung)  • [*Liên kết đến hướng dẫn chính*](../EN/Manual_for_AI.md)
+[*Trở về nội dung*](#nội-dung)  • [*Liên kết đến hướng dẫn chính*](../EN/AI-manual-en.md)
 
 ---
 
@@ -449,6 +448,6 @@ Vì vậy, đừng sợ AI – nó không phải là một con quái vật, mà 
 - Tôi đã viết văn bản này, nhưng có vẻ quá dài. Bạn có thể rút ngắn nó nhưng vẫn giữ lại tất cả các thông tin quan trọng không?
 - Làm thế nào để viết một bản sơ yếu lý lịch và đơn xin việc cho quảng cáo này?
 
-[*Trở về nội dung*](#nội-dung) • [*Liên kết đến hướng dẫn chính*](../EN/Manual_for_AI.md)
+[*Trở về nội dung*](#nội-dung) • [*Liên kết đến hướng dẫn chính*](../EN/AI-manual-en.md)
 
 ---

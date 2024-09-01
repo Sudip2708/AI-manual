@@ -4,9 +4,9 @@
 
 AI jeb mākslīgā intelekts (no angļu valodas "Artificial Intelligence") ir saīsinājums, ko mūsdienās dzirdam arvien biežāk. Bet ko tas patiesībā nozīmē? Ja par mākslīgo intelektu vēl daudz nezini, nākamās rindkopas ir tieši tev.
 
-[ *Plašāku informāciju par šo tēmu atradīsi pašā* [***AI Manual***](../EN/Manual_for_AI.md), *kas ir rakstīts angļu valodā un satur detalizētāku tēmas izklāstu.* ]
+[ *Plašāku informāciju par šo tēmu atradīsi pašā* [***AI Manual***](../EN/AI-manual-en.md), *kas ir rakstīts angļu valodā un satur detalizētāku tēmas izklāstu.* ]
 
-<small>No čehu oriģināla tulkojis ChatGPT.</small>
+<small>No čehu oriģināla tulkojis ChatGPT.</small>  
 [<small>Citi valodas:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI jeb mākslīgā intelekts (no angļu valodas "Artificial Intelligence") ir sa
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Tāpēc nebaidieties no AI – tā nav briesmonis, bet rīks mūsu dzīves kvali
 
 18.08.2024 Sudip2708
 
-[*Atpakaļ uz saturu*](#saturu)  • [*Saites uz galveno rokasgrāmatu*](../EN/Manual_for_AI.md)
+[*Atpakaļ uz saturu*](#saturu)  • [*Saites uz galveno rokasgrāmatu*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Tāpēc nebaidieties no AI – tā nav briesmonis, bet rīks mūsu dzīves kvali
 - Esmu uzrakstījis šo tekstu, bet tas šķiet pārāk garš. Vai tu vari to saīsināt, lai viss būtiskais paliktu?
 - Kā pareizi izveidot CV un pieteikumu darbam šim sludinājumam?
 
-[*Atpakaļ uz saturu*](#saturu) • [*Saites uz galveno rokasgrāmatu*](../EN/Manual_for_AI.md)
+[*Atpakaļ uz saturu*](#saturu) • [*Saites uz galveno rokasgrāmatu*](../EN/AI-manual-en.md)
 
 ---

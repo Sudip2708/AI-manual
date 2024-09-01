@@ -4,9 +4,9 @@
 
 AI, eller kunstig intelligens (fra engelsk "Artificial Intelligence"), er en forkortelse, vi hører mere og mere om i dag. Men hvad betyder det egentlig? Hvis du ikke ved så meget om kunstig intelligens endnu, er de følgende linjer skrevet specielt til dig.
 
-[ *Yderligere oplysninger om emnet kan findes i selve* [***AI Manual***](../EN/Manual_for_AI.md), *som er skrevet på engelsk og indeholder en mere detaljeret gennemgang af emnet.* ]
+[ *Yderligere oplysninger om emnet kan findes i selve* [***AI Manual***](../EN/AI-manual-en.md), *som er skrevet på engelsk og indeholder en mere detaljeret gennemgang af emnet.* ]
 
-<small>Oversat fra den tjekkiske original af ChatGPT.</small>
+<small>Oversat fra den tjekkiske original af ChatGPT.</small>  
 [<small>Andre sprog:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,9 +14,9 @@ AI, eller kunstig intelligens (fra engelsk "Artificial Intelligence"), er en for
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Så vær ikke bange for AI – det er ikke en skræmmende skikkelse, men et vær
 
 18.8.2024 Sudip2708
 
-[*Tilbage til indhold*](#Indhold)  • [*Link til hovedmanualen*](../EN/Manual_for_AI.md)
+[*Tilbage til indhold*](#Indhold)  • [*Link til hovedmanualen*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ Så vær ikke bange for AI – det er ikke en skræmmende skikkelse, men et vær
 - Jeg har skrevet denne tekst, men den virker for lang. Kan du forkorte den, så det vigtigste stadig er med?
 - Hvordan formulerer man et CV og en ansøgning til dette jobopslag?
 
-[*Tilbage til indhold*](#Indhold) • [*Link til hovedmanualen*](../EN/Manual_for_AI.md)
+[*Tilbage til indhold*](#Indhold) • [*Link til hovedmanualen*](../EN/AI-manual-en.md)
 
 ---
 

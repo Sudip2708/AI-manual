@@ -4,9 +4,9 @@
 
 AI или вештачка интелигенција (од англиски „Artificial Intelligence“) е акроним кој денес го слушаме сè почесто. Но што всушност значи тоа? Ако не знаете многу за вештачката интелигенција, следниве редови се наменети токму за вас.
 
-[ *Повеќе информации за оваа тема можете да најдете во самото* [***AI Manual***](../EN/Manual_for_AI.md), *кој е напишан на англиски јазик и содржи подетален разглед на темата.* ]
+[ *Повеќе информации за оваа тема можете да најдете во самото* [***AI Manual***](../EN/AI-manual-en.md), *кој е напишан на англиски јазик и содржи подетален разглед на темата.* ]
 
-<small>Преведено од чешкиот оригинал од ChatGPT.</small>
+<small>Преведено од чешкиот оригинал од ChatGPT.</small>  
 [<small>Други јазици:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI или вештачка интелигенција (од англиски „
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ AI и особено ChatGPT има многу добро разбирање н�
 
 18.8.2024 Sudip2708
 
-[*Назад на содржината*](#Sodrzina)  • [*Линк до главниот водич*](../EN/Manual_for_AI.md)
+[*Назад на содржината*](#Sodrzina)  • [*Линк до главниот водич*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ AI и особено ChatGPT има многу добро разбирање н�
 - Напишав овој текст, но ми изгледа премногу долг. Можеш ли да го скратиш така што ќе остане сè што е важно?
 - Како правилно да формулирам CV и барање за работа за оваа оглас?
 
-[*Назад на содржината*](#Sodrzina) • [*Линк до главниот водич*](../EN/Manual_for_AI.md)
+[*Назад на содржината*](#Sodrzina) • [*Линк до главниот водич*](../EN/AI-manual-en.md)
 
 ---

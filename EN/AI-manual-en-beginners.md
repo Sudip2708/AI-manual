@@ -6,7 +6,7 @@ AI, or Artificial Intelligence, is an acronym we hear more and more often these 
 But what does it actually mean? If you’re not very familiar with AI yet, 
 the following lines are just for you.
 
-[ *You can find more detailed information on this topic in the* [***AI Manual***](Manual_for_AI.md), 
+[ *You can find more detailed information on this topic in the* [***AI Manual***](AI-manual-en.md), 
 *which is linked to this introduction and provides a more in-depth analysis.* ]
 
 <small>Translated from the Czech original by ChatGPT.</small>  
@@ -17,7 +17,7 @@ the following lines are just for you.
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
@@ -666,7 +666,7 @@ not only of our quality of life but of the world as a whole.
 
 August 18, 2024 Sudip2708
 
-[*Back to Contents*](#contents) • [*Link to Main Manual*](Manual_pro_AI.md)
+[*Back to Contents*](#contents) • [*Link to Main Manual*](AI-manual-cz.md)
 
 ---
 
@@ -744,4 +744,4 @@ August 18, 2024 Sudip2708
 - I wrote this text, but it seems too long. Could you shorten it while keeping all the essential information?
 - How should I properly format a resume and cover letter for this job posting?
 
-[*Back to Contents*](#Contents) • [*Link to Main Manual*](Manual_for_AI.md)
+[*Back to Contents*](#Contents) • [*Link to Main Manual*](AI-manual-en.md)

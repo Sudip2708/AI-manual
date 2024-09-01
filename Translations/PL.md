@@ -4,7 +4,7 @@
 
 AI, czyli sztuczna inteligencja (z angielskiego "Artificial Intelligence"), to skrót, który dzisiaj słyszymy coraz częściej. Ale co właściwie oznacza? Jeśli nie wiesz jeszcze zbyt wiele o sztucznej inteligencji, poniższe wiersze są właśnie dla Ciebie.
 
-[ *Więcej informacji na ten temat znajdziesz w samym* [***AI Manual***](../EN/Manual_for_AI.md), *który jest napisany po angielsku i zawiera bardziej szczegółową analizę tematu.* ]
+[ *Więcej informacji na ten temat znajdziesz w samym* [***AI Manual***](../EN/AI-manual-en.md), *który jest napisany po angielsku i zawiera bardziej szczegółową analizę tematu.* ]
 
 <small>Przetłumaczone z oryginału czeskiego przez ChatGPT.</small>  
 [<small>Inne języki:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI, czyli sztuczna inteligencja (z angielskiego "Artificial Intelligence"), to s
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Nie bój się więc AI – to nie straszak, ale narzędzie do rozwoju i poprawy 
 
 18.08.2024 Sudip2708
 
-[*Wróć do spisu treści*](#spis-tresci) • [*Link do głównego podręcznika*](../EN/Manual_for_AI.md)
+[*Wróć do spisu treści*](#spis-tresci) • [*Link do głównego podręcznika*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Nie bój się więc AI – to nie straszak, ale narzędzie do rozwoju i poprawy 
 - Napisałem ten tekst, ale wydaje mi się za długi. Czy możesz go skrócić, zachowując istotne informacje?
 - Jak prawidłowo sformułować CV i list motywacyjny do tego ogłoszenia?
 
-[*Wróć do spisu treści*](#spis-tresci) • [*Link do głównego podręcznika*](../EN/Manual_for_AI.md)
+[*Wróć do spisu treści*](#spis-tresci) • [*Link do głównego podręcznika*](../EN/AI-manual-en.md)
 
 ---

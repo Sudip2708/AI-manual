@@ -4,7 +4,7 @@
 
 AI, atau kecerdasan buatan (dari bahasa Inggris "Artificial Intelligence"), adalah singkatan yang kini semakin sering kita dengar. Namun, apa sebenarnya artinya? Jika Anda belum banyak tahu tentang kecerdasan buatan, baris berikut ini ditujukan khusus untuk Anda.
 
-[ *Informasi lebih lanjut tentang topik ini dapat ditemukan di* [***Manual AI***](../EN/Manual_for_AI.md), *yang ditulis dalam bahasa Inggris dan berisi penjelasan lebih mendetail mengenai topik tersebut.* ]
+[ *Informasi lebih lanjut tentang topik ini dapat ditemukan di* [***Manual AI***](../EN/AI-manual-en.md), *yang ditulis dalam bahasa Inggris dan berisi penjelasan lebih mendetail mengenai topik tersebut.* ]
 
 <small>Diterjemahkan dari aslinya bahasa Ceko oleh ChatGPT.</small>  
 [<small>Bahasa lain:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI, atau kecerdasan buatan (dari bahasa Inggris "Artificial Intelligence"), adal
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Jadi, jangan takut dengan AI – ia bukanlah monster, melainkan alat untuk penge
 
 18.8.2024 Sudip2708
 
-[*Kembali ke daftar isi*](#daftar-isi)  • [*Tautan ke panduan utama*](../EN/Manual_for_AI.md)
+[*Kembali ke daftar isi*](#daftar-isi)  • [*Tautan ke panduan utama*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Jadi, jangan takut dengan AI – ia bukanlah monster, melainkan alat untuk penge
 - Saya menulis teks ini, tetapi menurut saya terlalu panjang. Bisakah Anda mempersingkatnya sehingga semua poin penting tetap ada?
 - Bagaimana cara merumuskan CV dan surat lamaran kerja untuk iklan ini dengan benar?
 
-[*Kembali ke daftar isi*](#daftar-isi) • [*Tautan ke panduan utama*](../EN/Manual_for_AI.md)
+[*Kembali ke daftar isi*](#daftar-isi) • [*Tautan ke panduan utama*](../EN/AI-manual-en.md)
 
 ---

@@ -4,7 +4,7 @@
 
 AI、すなわち人工知能（英語で「Artificial Intelligence」）は、現在ますます耳にすることが増えてきた略語です。しかし、具体的にはどのような意味を持つのでしょうか？人工知能についてあまり知らない方に向けて、以下の内容をお届けします。
 
-[ *このテーマについての詳細は、英語で書かれた* [***AIマニュアル***](../EN/Manual_for_AI.md) *をご覧ください。ここにはトピックの詳細な分析が含まれています。* ]
+[ *このテーマについての詳細は、英語で書かれた* [***AIマニュアル***](../EN/AI-manual-en.md) *をご覧ください。ここにはトピックの詳細な分析が含まれています。* ]
 
 <small>チェコ語の原本からChatGPTによって翻訳されました。</small>  
 [<small>他の言語:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI、すなわち人工知能（英語で「Artificial Intelligence」）は、�
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -368,7 +368,7 @@ AIを恐れる必要はありません。それは恐ろしい存在ではなく
 
 2024年8月18日 Sudip2708
 
-[*目次に戻る*](#内容)  • [*主なマニュアルへのリンク*](../EN/Manual_for_AI.md)
+[*目次に戻る*](#内容)  • [*主なマニュアルへのリンク*](../EN/AI-manual-en.md)
 
 ---
 
@@ -446,6 +446,6 @@ AIを恐れる必要はありません。それは恐ろしい存在ではなく
 - 書いたこの文章が長すぎると思います。要点を残しつつ短くしてもらえますか？
 - この求人に対して履歴書と応募書類をどのように作成するべきですか？
 
-[*目次に戻る*](#内容) • [*主なマニュアルへのリンク*](../EN/Manual_for_AI.md)
+[*目次に戻る*](#内容) • [*主なマニュアルへのリンク*](../EN/AI-manual-en.md)
 
 ---

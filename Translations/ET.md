@@ -4,9 +4,9 @@
 
 AI ehk tehisintellekt (ingliskeelsest "Artificial Intelligence") on lühend, mida kuuleme tänapäeval järjest sagedamini. Aga mida see tegelikult tähendab? Kui tehisintellektist ei tea veel palju, on järgmised read just teile.
 
-[ *Rohkem teavet selle teema kohta leiate* [***AI Manual***](../EN/Manual_for_AI.md), *mis on kirjutatud inglise keeles ja sisaldab üksikasjalikumat teavet.* ]
+[ *Rohkem teavet selle teema kohta leiate* [***AI Manual***](../EN/AI-manual-en.md), *mis on kirjutatud inglise keeles ja sisaldab üksikasjalikumat teavet.* ]
 
-<small>Tõlkinud ChatGPT.</small>
+<small>Tõlkinud ChatGPT.</small>  
 [<small>Muud keeled:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ AI ehk tehisintellekt (ingliskeelsest "Artificial Intelligence") on lühend, mid
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
 [<img src="../Pictures/Flags/KA.png" alt="Georgian Flag" style="height: 20px;">](../Translations/KA.md)
@@ -370,7 +370,7 @@ Ja kui väheneb valeinfot, pettusi ja valeandmeid, usun, et elu muutub taas natu
 
 18.8.2024 Sudip2708
 
-[*Tagasi sisukorda*](#Sisukord)  • [*Peamanuaali link*](../EN/Manual_for_AI.md)
+[*Tagasi sisukorda*](#Sisukord)  • [*Peamanuaali link*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Ja kui väheneb valeinfot, pettusi ja valeandmeid, usun, et elu muutub taas natu
 - Ma kirjutasin selle teksti, kuid see tundub liiga pikk. Kas sa saaksid selle lühendada, säilitades kõik olulised punktid?
 - Kuidas vormistada elulookirjeldust ja töötaotlust selle kuulutuse jaoks?
 
-[*Tagasi sisukorda*](#Sisukord) • [*Peamanuaali link*](../EN/Manual_for_AI.md)
+[*Tagasi sisukorda*](#Sisukord) • [*Peamanuaali link*](../EN/AI-manual-en.md)
 
 ---

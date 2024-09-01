@@ -4,9 +4,9 @@
 
 L-AI jew intelliġenza artifiċjali (minn "Artificial Intelligence" bl-Ingliż), hija akronimu li qed nisimgħu dejjem iktar spiss illum. Imma x'ifisser verament? Jekk ma tafx ħafna dwar l-intelliġenza artifiċjali, il-linji li ġejjin huma speċjalment għalik.
 
-[ *Aktar informazzjoni dwar dan is-suġġett tista' ssib fil* [***AI Manual***](../EN/Manual_for_AI.md), *li huwa miktub bl-Ingliż u fih analisi aktar dettaljata tas-suġġett.* ]
+[ *Aktar informazzjoni dwar dan is-suġġett tista' ssib fil* [***AI Manual***](../EN/AI-manual-en.md), *li huwa miktub bl-Ingliż u fih analisi aktar dettaljata tas-suġġett.* ]
 
-<small>Tradott minn ChatGPT mill-origini Čeki.</small>
+<small>Tradott minn ChatGPT mill-origini Čeki.</small>  
 [<small>Lingwi oħra:</small>](../README.md)  
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
@@ -14,10 +14,10 @@ L-AI jew intelliġenza artifiċjali (minn "Artificial Intelligence" bl-Ingliż),
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ M'għandekx tibża' mill-AI – mhix bogħod, iżda għodda għall-iżvilupp u l
 
 18.8.2024 Sudip2708
 
-[*Lura għall-kontenut*](#kontenut)  • [*Link għall-manwal ewlieni*](../EN/Manual_for_AI.md)
+[*Lura għall-kontenut*](#kontenut)  • [*Link għall-manwal ewlieni*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ M'għandekx tibża' mill-AI – mhix bogħod, iżda għodda għall-iżvilupp u l
 - Iktejt dan it-test, iżda jidher li huwa twil wisq. Tista' tnaqqasha sabiex tibqa' l-affarijiet essenzjali?
 - Kif tiffurmaw CV u applikazzjoni għal dan l-annunzju?
 
-[*Lura għall-kontenut*](#kontenut)  • [*Link għall-manwal ewlieni*](../EN/Manual_for_AI.md)
+[*Lura għall-kontenut*](#kontenut)  • [*Link għall-manwal ewlieni*](../EN/AI-manual-en.md)
 
 ---
 

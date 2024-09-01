@@ -4,19 +4,19 @@
 
 AI, ose Inteligjenca Artificiale (nga anglishtja "Artificial Intelligence"), është një shkurtim që sot po dëgjojmë gjithnjë e më shpesh. Por çfarë do të thotë në të vërtetë? Nëse nuk dini shumë për inteligjencën artificiale, këto rreshta janë për ju.
 
-[ *Më shumë informacion në lidhje me këtë temë mund të gjeni në* [***Manuali i AI***](../EN/Manual_for_AI.md), *i cili është shkruar në anglisht dhe përmban një analizë më të hollësishme të temës.* ]
+[ *Më shumë informacion në lidhje me këtë temë mund të gjeni në* [***Manuali i AI***](../EN/AI-manual-en.md), *i cili është shkruar në anglisht dhe përmban një analizë më të hollësishme të temës.* ]
 
-<small>Prekë nga origjinali në çekisht nga ChatGPT.</small>
+<small>Prekë nga origjinali në çekisht nga ChatGPT.</small>  
 [<small>Gjuha të tjera:</small>](../README.md)  
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Prandaj, mos u frikësoni nga AI – nuk është një shpirt i keq, por një mje
 
 18.8.2024 Sudip2708
 
-[*Kthehu te përmbajtja*](#përmbajtja)  • [*Linku në manualin kryesor*](../EN/Manual_for_AI.md)
+[*Kthehu te përmbajtja*](#përmbajtja)  • [*Linku në manualin kryesor*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Prandaj, mos u frikësoni nga AI – nuk është një shpirt i keq, por një mje
 - Kam shkruar këtë tekst, por më duket shumë i gjatë. Mund ta shkurtosh duke mbajtur gjithçka të rëndësishme?
 - Si të formuloj një CV dhe një kërkesë pune për këtë shpallje?
 
-[*Kthehu te përmbajtja*](#përmbajtja) • [*Linku në manualin kryesor*](../EN/Manual_for_AI.md)
+[*Kthehu te përmbajtja*](#përmbajtja) • [*Linku në manualin kryesor*](../EN/AI-manual-en.md)
 
 ---

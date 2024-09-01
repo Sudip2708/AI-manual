@@ -4,7 +4,7 @@
 
 KI, oder künstliche Intelligenz (von englisch "Artificial Intelligence"), ist ein Begriff, den wir heutzutage immer häufiger hören. Aber was bedeutet das eigentlich? Wenn Sie noch nicht viel über künstliche Intelligenz wissen, sind die folgenden Zeilen genau für Sie gedacht.
 
-[ *Weitere Informationen zu diesem Thema finden Sie im* [***KI-Handbuch***](../EN/Manual_for_AI.md), *das auf Englisch verfasst ist und eine detailliertere Analyse des Themas enthält.* ]
+[ *Weitere Informationen zu diesem Thema finden Sie im* [***KI-Handbuch***](../EN/AI-manual-en.md), *das auf Englisch verfasst ist und eine detailliertere Analyse des Themas enthält.* ]
 
 <small>Aus dem tschechischen Original übersetzt von ChatGPT.</small>  
 [<small>Weitere Sprachen:</small>](../README.md)  
@@ -14,10 +14,10 @@ KI, oder künstliche Intelligenz (von englisch "Artificial Intelligence"), ist e
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Fürchten Sie sich also nicht vor der KI – sie ist kein Ungeheuer, sondern ein
 
 18.8.2024 Sudip2708
 
-[*Zurück zum Inhalt*](#inhalt) • [*Link zum Hauptmanual*](../EN/Manual_for_AI.md)
+[*Zurück zum Inhalt*](#inhalt) • [*Link zum Hauptmanual*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,6 +448,6 @@ Fürchten Sie sich also nicht vor der KI – sie ist kein Ungeheuer, sondern ein
 - Ich habe diesen Text geschrieben, aber er kommt mir zu lang vor. Kannst du ihn kürzen, so dass alles Wichtige erhalten bleibt?
 - Wie formuliere ich meinen Lebenslauf und mein Bewerbungsschreiben für diese Anzeige richtig?
 
-[*Zurück zum Inhalt*](#inhalt) • [*Link zum Hauptmanual*](../EN/Manual_for_AI.md)
+[*Zurück zum Inhalt*](#inhalt) • [*Link zum Hauptmanual*](../EN/AI-manual-en.md)
 
 ---

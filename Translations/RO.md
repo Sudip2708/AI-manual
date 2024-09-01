@@ -4,7 +4,7 @@
 
 AI sau inteligența artificială (din engleză "Artificial Intelligence") este o abreviere pe care o auzim din ce în ce mai des astăzi. Dar ce înseamnă de fapt? Dacă nu știți încă prea multe despre inteligența artificială, rândurile următoare sunt destinate tocmai pentru voi.
 
-[*Mai multe informații pe acest subiect găsiți în* [***Manualul AI***](../EN/Manual_for_AI.md), *care este scris în engleză și conține o analiză mai detaliată a subiectului.*]
+[*Mai multe informații pe acest subiect găsiți în* [***Manualul AI***](../EN/AI-manual-en.md), *care este scris în engleză și conține o analiză mai detaliată a subiectului.*]
 
 <small>Tradus din originalul ceh de ChatGPT.</small>  
 [<small>Alte limbi:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI sau inteligența artificială (din engleză "Artificial Intelligence") este o
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -370,7 +370,7 @@ Așadar, nu vă temeți de AI – nu este un bau-bau, ci un instrument pentru de
 
 18.8.2024 Sudip2708
 
-[*Înapoi la conținut*](#conținut) • [*Link către manualul principal*](../EN/Manual_for_AI.md)
+[*Înapoi la conținut*](#conținut) • [*Link către manualul principal*](../EN/AI-manual-en.md)
 
 ---
 
@@ -448,7 +448,7 @@ Așadar, nu vă temeți de AI – nu este un bau-bau, ci un instrument pentru de
 - Am scris acest text, dar mi se pare prea lung. Poți să-l scurtezi astfel încât să rămână toate informațiile esențiale?
 - Cum să formulez corect un CV și o cerere de muncă pentru acest anunț?
 
-[*Înapoi la conținut*](#conținut) • [*Link către manualul principal*](../EN/Manual_for_AI.md)
+[*Înapoi la conținut*](#conținut) • [*Link către manualul principal*](../EN/AI-manual-en.md)
 
 ---
 

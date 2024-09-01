@@ -4,7 +4,7 @@
 
 AI, eller kunstig intelligens (fra engelsk "Artificial Intelligence"), er et begrep som vi hører stadig oftere. Men hva betyr det egentlig? Hvis du ikke vet mye om kunstig intelligens ennå, er de følgende linjene for deg.
 
-[ *Mer informasjon om dette emnet finner du i* [***AI-manualen***](../EN/Manual_for_AI.md), *som er skrevet på engelsk og inneholder en mer detaljert gjennomgang av temaet.* ]
+[ *Mer informasjon om dette emnet finner du i* [***AI-manualen***](../EN/AI-manual-en.md), *som er skrevet på engelsk og inneholder en mer detaljert gjennomgang av temaet.* ]
 
 <small>Oversatt fra den tsjekkiske originalen av ChatGPT.</small>  
 [<small>Andre språk:</small>](../README.md)  
@@ -14,10 +14,10 @@ AI, eller kunstig intelligens (fra engelsk "Artificial Intelligence"), er et beg
 [<img src="../Pictures/Flags/BG.png" alt="Bulgarian Flag" style="height: 20px;">](../Translations/BG.md)
 [<img src="../Pictures/Flags/CA.png" alt="Catalan Flag" style="height: 20px;">](../Translations/CA.md)
 [<img src="../Pictures/Flags/HR.png" alt="Croatian Flag" style="height: 20px;">](../Translations/HR.md)
-[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/Manual_pro_AI_zactectici.md)
+[<img src="../Pictures/Flags/CZ.png" alt="Czech Flag" style="height: 20px;">](../CZ/AI-manual-cz-beginners.md)
 [<img src="../Pictures/Flags/DA.png" alt="Danish Flag" style="height: 20px;">](../Translations/DA.md)
 [<img src="../Pictures/Flags/NL.png" alt="Dutch Flag" style="height: 20px;">](../Translations/NL.md)
-[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/Manual_for_AI_beginners.md)
+[<img src="../Pictures/Flags/EN.png" alt="UK Flag" style="height: 20px;">](../EN/AI-manual-en-beginners.md)
 [<img src="../Pictures/Flags/ET.png" alt="Estonian Flag" style="height: 20px;">](../Translations/ET.md)
 [<img src="../Pictures/Flags/FI.png" alt="Finnish Flag" style="height: 20px;">](../Translations/FI.md)
 [<img src="../Pictures/Flags/FR.png" alt="French Flag" style="height: 20px;">](../Translations/FR.md)
@@ -369,7 +369,7 @@ Vær derfor ikke redd for AI – det er ikke et spøkelse, men et verktøy for u
 
 18.8.2024 Sudip2708
 
-[*Tilbake til innhold*](#Innhold)  • [*Lenke til hovedmanualen*](../EN/Manual_for_AI.md)
+[*Tilbake til innhold*](#Innhold)  • [*Lenke til hovedmanualen*](../EN/AI-manual-en.md)
 
 ---
 
@@ -447,6 +447,6 @@ Vær derfor ikke redd for AI – det er ikke et spøkelse, men et verktøy for u
 - Jeg har skrevet denne teksten, men den virker for lang. Kan du forkorte den slik at alt viktig er med?
 - Hvordan bør jeg formulere et CV og en jobbsøknad for denne annonsen?
 
-[*Tilbake til innhold*](#Innhold) • [*Lenke til hovedmanualen*](../EN/Manual_for_AI.md)
+[*Tilbake til innhold*](#Innhold) • [*Lenke til hovedmanualen*](../EN/AI-manual-en.md)
 
 ---
