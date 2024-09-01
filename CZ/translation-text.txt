@@ -1,14 +1,3 @@
-![Main Image](../Pictures/AI_pro_zacatecniky.jpg)
-
-
-Dopast že pak jsem text rozdělil na 6 částí přibližně po 100 řádcích a překlad celého textu do jednoho jazyka i s prací trval přibližně 10 - 15 minut.
-
-Smazat výskyt Seznamu a přidat obrázky + odkazy na další jazyka (s vlaječky)
-
-Zkontrolovat obsah a odkazy
-
-Zkotrolovat že se přeložilo vše.
-
 Čeština,
 Angličtina,
 Němčina,
@@ -54,8 +43,6 @@ Baskičtina,
 Slovinština,
 Rumunština,
 USAčtina.
-
-
 
 
 ####################################################

@@ -1648,19 +1648,25 @@ U manuálu jsem navrhl základní body a následně nechal ChatGPT, aby je dále
 Text pro začátečníky je naopak více mým dílem, takže jsme si zde role prohodili 
 a ChatGPT se tentokrát ujal role korektora.
 
-[16. srpen 2024 - Vytvoření osnovy a získání prvních návrhů textů](../ChatGPT/24-08-16.md)  
-[17. srpen 2024 - Zpracování a úprava získaných textů](../ChatGPT/24-08-17.md)  
-[18. srpen 2024 - Vytvoření textů pro manuál určený začátečníkům](../ChatGPT/24-08-18.md)  
-[19. srpen 2024 - Dokončení textů a oprava gramatiky manuálu pro začátečníky](../ChatGPT/24-08-19.md)  
-[20. srpen 2024 - Dokončení opravy gramatiky a kontrola smysluplnosti manuálu pro začátečníky](../ChatGPT/24-08-20.md)  
-[24. srpen 2024 - Doplnění textů pro hlavní manuál](../ChatGPT/24-08-24.md)  
-[25. srpen 2024 - Konečná úprava manuálu pro začátečníky](../ChatGPT/24-08-25.md)  
-[26. srpen 2024 - Konečná úprava hlavního manuálu](../ChatGPT/24-08-26.md)  
-[27. srpen 2024 - Překlady obou manuálů do angličtiny](../ChatGPT/24-08-27.md)  
+[16. srpna 2024 - Vytvoření osnovy a získání prvních návrhů textů](../ChatGPT/24-08-16.md)  
+[17. srpna 2024 - Zpracování a úprava získaných textů](../ChatGPT/24-08-17.md)  
+[18. srpna 2024 - Vytvoření textů pro manuál určený začátečníkům](../ChatGPT/24-08-18.md)  
+[19. srpna 2024 - Dokončení textů a oprava gramatiky manuálu pro začátečníky](../ChatGPT/24-08-19.md)  
+[20. srpna 2024 - Dokončení opravy gramatiky a kontrola smysluplnosti manuálu pro začátečníky](../ChatGPT/24-08-20.md)  
+[24. srpna 2024 - Doplnění textů pro hlavní manuál](../ChatGPT/24-08-24.md)  
+[25. srpna 2024 - Konečná úprava manuálu pro začátečníky](../ChatGPT/24-08-25.md)  
+[26. srpna 2024 - Konečná úprava hlavního manuálu](../ChatGPT/24-08-26.md)  
+[27. srpna 2024 - Překlady obou manuálů do angličtiny](../ChatGPT/24-08-27.md)  
+[28. srpna 2024 - Začátek překladů manuálu pro začátečníky](../ChatGPT/24-08-28.md)  
+[29. srpna 2024 - Pokračování v překladech manuálu pro začátečníky](../ChatGPT/24-08-29.md)  
+[30. srpna 2024 - Dokončení překladů manuálu pro začátečníky](../ChatGPT/24-08-30.md)  
+[31. srpna 2024 - Závěrečné úpravy](../ChatGPT/24-08-31.md)  
 
-Celý proces si vyžádal necelé dva týdny mého plného zapojení. 
+Celý proces si vyžádal dva týdny mého plného zapojení.
 Bez použití ChatGPT bych čelil značným problémům při shromažďování všech nezbytných dat koherentním způsobem. 
 Sice by to šlo i bez něj, ale trvalo by to mnohem déle, a je pravděpodobné, že bych se do toho vůbec nepustil.
+A i když momentálně nejsem schopen posoudit kvalitu překladů do jednotlivých jazyků, 
+schopnost vytvořit 40 překladů během tří dnů je úctyhodný výkon.
 
 Pokud tedy považujete tuto příručku za přínosnou, rád bych zdůraznil roli ChatGPT na jejím vývoji 
 a vyjádřil svou vděčnost vývojářům a všem skvělým mozkům, kteří k vývoji umělé inteligence (nejen ChatGPT) přispěli.
