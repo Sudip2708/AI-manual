@@ -4,7 +4,7 @@
 
 AI, ose Inteligjenca Artificiale (nga anglishtja "Artificial Intelligence"), është një shkurtim që sot po dëgjojmë gjithnjë e më shpesh. Por çfarë do të thotë në të vërtetë? Nëse nuk dini shumë për inteligjencën artificiale, këto rreshta janë për ju.
 
-[ *Më shumë informacion në lidhje me këtë temë mund të gjeni në* [***Manuali i AI***](../EN/AI-manual-en.md), *i cili është shkruar në anglisht dhe përmban një analizë më të hollësishme të temës.* ]
+*(Më shumë informacion në lidhje me këtë temë mund të gjeni në* [***Manuali i AI***](../EN/AI-manual-en.md), *i cili është shkruar në anglisht dhe përmban një analizë më të hollësishme të temës.)*
 
 <small>Prekë nga origjinali në çekisht nga ChatGPT.</small>  
 [<small>Gjuha të tjera:</small>](../README.md#other-translations-of-the-beginners-guide)  

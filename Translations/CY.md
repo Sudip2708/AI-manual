@@ -4,7 +4,7 @@
 
 AI, neu deallusrwydd artiffisial (o'r Saesneg "Artificial Intelligence"), yw'r byrddau a glywn ni'n gynyddol fwyfwy heddiw. Ond beth mae'n ei olygu yn wirioneddol? Os nad ydych chi'n gwybod llawer am deallusrwydd artiffisial eto, mae'r llinellau canlynol yn cael eu hanelu atoch chi.
 
-[ *Bydd mwy o wybodaeth ar y pwnc hwn yn cael ei ddod o hyd yn* [***AI Manual***](../EN/AI-manual-en.md), *sy'n cael ei ysgrifennu yn Saesneg ac yn cynnwys dadansoddiad manwl o'r pwnc.* ]
+*(Bydd mwy o wybodaeth ar y pwnc hwn yn cael ei ddod o hyd yn* [***AI Manual***](../EN/AI-manual-en.md), *sy'n cael ei ysgrifennu yn Saesneg ac yn cynnwys dadansoddiad manwl o'r pwnc.)*
 
 <small>Cyfieithwyd o'r fersiwn Gaseg gan ChatGPT.</small>  
 [<small>Ieithoedd eraill:</small>](../README.md#other-translations-of-the-beginners-guide)  

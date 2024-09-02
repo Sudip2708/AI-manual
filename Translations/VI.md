@@ -4,7 +4,7 @@
 
 AI hay trí tuệ nhân tạo (viết tắt của "Artificial Intelligence" trong tiếng Anh) là một thuật ngữ ngày càng được nghe nhiều hơn. Nhưng thực chất nó có nghĩa là gì? Nếu bạn chưa biết nhiều về trí tuệ nhân tạo, những dòng sau đây chính là dành cho bạn.
 
-[ *Thông tin chi tiết về chủ đề này có thể được tìm thấy trong* [***AI Manual***](../EN/AI-manual-en.md), *được viết bằng tiếng Anh và chứa phân tích chi tiết về chủ đề.* ]
+*(Thông tin chi tiết về chủ đề này có thể được tìm thấy trong* [***AI Manual***](../EN/AI-manual-en.md), *được viết bằng tiếng Anh và chứa phân tích chi tiết về chủ đề.)*
 
 <small>Dịch từ nguyên bản tiếng Séc bởi ChatGPT.</small>  
 [<small>Ngôn ngữ khác:</small>](../README.md#other-translations-of-the-beginners-guide)  

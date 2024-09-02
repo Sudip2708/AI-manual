@@ -4,7 +4,7 @@
 
 Umetna inteligenca (v angleščini "Artificial Intelligence" ali AI) je kratica, ki jo danes slišimo vse pogosteje. Ampak kaj to dejansko pomeni? Če o umetni inteligenci še nimate veliko znanja, so naslednje vrstice namenjene prav vam.
 
-[ *Več informacij na to temo boste našli v samem* [***AI Manual***](../EN/AI-manual-en.md), *ki je napisan v angleščini in vsebuje podrobnejšo obravnavo teme.* ]
+*(Več informacij na to temo boste našli v samem* [***AI Manual***](../EN/AI-manual-en.md), *ki je napisan v angleščini in vsebuje podrobnejšo obravnavo teme.)*
 
 <small>Iz češkega izvirnika prevedel ChatGPT.</small>  
 [<small>Drugi jeziki:</small>](../README.md#other-translations-of-the-beginners-guide)  

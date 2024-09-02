@@ -4,7 +4,7 @@
 
 L'AI, ovvero intelligenza artificiale (dall'inglese "Artificial Intelligence"), è un acronimo che oggi sentiamo sempre più spesso. Ma cosa significa esattamente? Se non sai ancora molto sull'intelligenza artificiale, queste righe sono pensate proprio per te.
 
-[ *Ulteriori informazioni su questo argomento possono essere trovate nel* [***Manuale AI***](../EN/AI-manual-en.md), *che è scritto in inglese e contiene un'analisi più dettagliata dell'argomento.* ]
+*(Ulteriori informazioni su questo argomento possono essere trovate nel* [***Manuale AI***](../EN/AI-manual-en.md), *che è scritto in inglese e contiene un'analisi più dettagliata dell'argomento.)*
 
 <small>Tradotto dall'originale ceco da ChatGPT.</small>  
 [<small>Altre lingue:</small>](../README.md#other-translations-of-the-beginners-guide)  

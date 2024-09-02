@@ -4,7 +4,7 @@
 
 AI, oftewel kunstmatige intelligentie (van het Engelse "Artificial Intelligence"), is een afkorting die we steeds vaker horen. Maar wat betekent het eigenlijk? Als je nog niet veel weet over kunstmatige intelligentie, zijn de volgende regels speciaal voor jou.
 
-[ *Meer informatie over dit onderwerp vind je in de* [***AI Manual***](../EN/AI-manual-en.md), *dat in het Engels is geschreven en een gedetailleerdere analyse van het onderwerp bevat.* ]
+*(Meer informatie over dit onderwerp vind je in de* [***AI Manual***](../EN/AI-manual-en.md), *dat in het Engels is geschreven en een gedetailleerdere analyse van het onderwerp bevat.)*
 
 <small>Vertaald uit het Tsjechisch door ChatGPT.</small>  
 [<small>Andere talen:</small>](../README.md#other-translations-of-the-beginners-guide)  

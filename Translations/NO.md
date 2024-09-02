@@ -4,7 +4,7 @@
 
 AI, eller kunstig intelligens (fra engelsk "Artificial Intelligence"), er et begrep som vi hører stadig oftere. Men hva betyr det egentlig? Hvis du ikke vet mye om kunstig intelligens ennå, er de følgende linjene for deg.
 
-[ *Mer informasjon om dette emnet finner du i* [***AI-manualen***](../EN/AI-manual-en.md), *som er skrevet på engelsk og inneholder en mer detaljert gjennomgang av temaet.* ]
+*(Mer informasjon om dette emnet finner du i* [***AI-manualen***](../EN/AI-manual-en.md), *som er skrevet på engelsk og inneholder en mer detaljert gjennomgang av temaet.)*
 
 <small>Oversatt fra den tsjekkiske originalen av ChatGPT.</small>  
 [<small>Andre språk:</small>](../README.md#other-translations-of-the-beginners-guide)  

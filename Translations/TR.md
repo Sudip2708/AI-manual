@@ -4,7 +4,7 @@
 
 Yapay Zeka (İngilizce "Artificial Intelligence" teriminden kısaltma), günümüzde daha sık duyduğumuz bir terimdir. Ancak bu ne anlama gelir? Eğer yapay zeka hakkında çok şey bilmiyorsanız, aşağıdaki satırlar tam olarak sizin için hazırlanmıştır.
 
-[ *Bu konu hakkında daha fazla bilgiyi* [***AI Kılavuzu***](../EN/AI-manual-en.md) *adlı İngilizce yazılmış ve konuyu daha ayrıntılı ele alan belgede bulabilirsiniz.* ]
+*(Bu konu hakkında daha fazla bilgiyi* [***AI Kılavuzu***](../EN/AI-manual-en.md) *adlı İngilizce yazılmış ve konuyu daha ayrıntılı ele alan belgede bulabilirsiniz.)*
 
 <small>Çekçe orijinalinden ChatGPT tarafından çevrilmiştir.</small>  
 [<small>Diğer diller:</small>](../README.md#other-translations-of-the-beginners-guide)  

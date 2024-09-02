@@ -4,7 +4,7 @@
 
 KI, oder künstliche Intelligenz (von englisch "Artificial Intelligence"), ist ein Begriff, den wir heutzutage immer häufiger hören. Aber was bedeutet das eigentlich? Wenn Sie noch nicht viel über künstliche Intelligenz wissen, sind die folgenden Zeilen genau für Sie gedacht.
 
-[ *Weitere Informationen zu diesem Thema finden Sie im* [***KI-Handbuch***](../EN/AI-manual-en.md), *das auf Englisch verfasst ist und eine detailliertere Analyse des Themas enthält.* ]
+*(Weitere Informationen zu diesem Thema finden Sie im* [***KI-Handbuch***](../EN/AI-manual-en.md), *das auf Englisch verfasst ist und eine detailliertere Analyse des Themas enthält.)*
 
 <small>Aus dem tschechischen Original übersetzt von ChatGPT.</small>  
 [<small>Weitere Sprachen:</small>](../README.md#other-translations-of-the-beginners-guide)  

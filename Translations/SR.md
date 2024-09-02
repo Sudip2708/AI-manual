@@ -4,7 +4,7 @@
 
 AI ili veštačka inteligencija (od engleskog "Artificial Intelligence") je skraćenica koju sve češće čujemo. Ali šta ona zapravo znači? Ako o veštačkoj inteligenciji još uvek ne znate mnogo, sledeće strane su upravo za vas.
 
-[ *Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/AI-manual-en.md), *koji je napisan na engleskom i sadrži detaljniju analizu teme.* ]
+*(Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/AI-manual-en.md), *koji je napisan na engleskom i sadrži detaljniju analizu teme.)*
 
 <small>Iz češkog originala preveo ChatGPT.</small>  
 [<small>Ostali jezici:</small>](../README.md#other-translations-of-the-beginners-guide)  

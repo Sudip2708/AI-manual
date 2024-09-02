@@ -4,7 +4,7 @@
 
 AI, czyli sztuczna inteligencja (z angielskiego "Artificial Intelligence"), to skrót, który dzisiaj słyszymy coraz częściej. Ale co właściwie oznacza? Jeśli nie wiesz jeszcze zbyt wiele o sztucznej inteligencji, poniższe wiersze są właśnie dla Ciebie.
 
-[ *Więcej informacji na ten temat znajdziesz w samym* [***AI Manual***](../EN/AI-manual-en.md), *który jest napisany po angielsku i zawiera bardziej szczegółową analizę tematu.* ]
+*(Więcej informacji na ten temat znajdziesz w samym* [***AI Manual***](../EN/AI-manual-en.md), *który jest napisany po angielsku i zawiera bardziej szczegółową analizę tematu.)*
 
 <small>Przetłumaczone z oryginału czeskiego przez ChatGPT.</small>  
 [<small>Inne języki:</small>](../README.md#other-translations-of-the-beginners-guide)  

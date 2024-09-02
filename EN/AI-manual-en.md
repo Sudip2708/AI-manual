@@ -2,10 +2,10 @@
 
 # AI Manual
 
-[ *If you would appreciate a more detailed introduction with more information, 
+*(If you would appreciate a more detailed introduction with more information, 
 designed to be understood even by those who have never heard of AI before, 
-I recommend reading this text first:* 
-[***Introduction to AI for Beginners***](AI-manual-en-beginners.md) ]
+I recommend reading this text first:*
+[***Introduction to AI for Beginners***](AI-manual-en-beginners.md)*)*
 
 ---
 

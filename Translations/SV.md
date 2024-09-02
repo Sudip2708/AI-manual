@@ -4,7 +4,7 @@
 
 AI, eller artificiell intelligens (från engelska "Artificial Intelligence"), är en förkortning som vi hör allt oftare idag. Men vad betyder det egentligen? Om du inte vet så mycket om artificiell intelligens ännu, är de följande raderna särskilt för dig.
 
-[ *Mer information om detta ämne hittar du i* [***AI Manual***](../EN/AI-manual-en.md), *som är skriven på engelska och innehåller en mer detaljerad genomgång av ämnet.* ]
+*(Mer information om detta ämne hittar du i* [***AI Manual***](../EN/AI-manual-en.md), *som är skriven på engelska och innehåller en mer detaljerad genomgång av ämnet.)*
 
 <small>Översatt från den tjeckiska originalet av ChatGPT.</small>  
 [<small>Fler språk:</small>](../README.md#other-translations-of-the-beginners-guide)  

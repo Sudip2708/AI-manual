@@ -4,7 +4,7 @@
 
 AI ehk tehisintellekt (ingliskeelsest "Artificial Intelligence") on lühend, mida kuuleme tänapäeval järjest sagedamini. Aga mida see tegelikult tähendab? Kui tehisintellektist ei tea veel palju, on järgmised read just teile.
 
-[ *Rohkem teavet selle teema kohta leiate* [***AI Manual***](../EN/AI-manual-en.md), *mis on kirjutatud inglise keeles ja sisaldab üksikasjalikumat teavet.* ]
+*(Rohkem teavet selle teema kohta leiate* [***AI Manual***](../EN/AI-manual-en.md), *mis on kirjutatud inglise keeles ja sisaldab üksikasjalikumat teavet.)*
 
 <small>Tõlkinud ChatGPT.</small>  
 [<small>Muud keeled:</small>](../README.md#other-translations-of-the-beginners-guide)  

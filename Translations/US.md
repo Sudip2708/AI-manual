@@ -4,7 +4,7 @@
 
 AI, or Artificial Intelligence, is a term we hear more and more often these days. But what does it actually mean? If you're not very familiar with artificial intelligence yet, the following lines are just for you.
 
-[ *For more information on this topic, you can check out the* [***AI Manual***](../EN/AI-manual-en.md), *which is written in English and provides a more detailed analysis.* ]
+*(For more information on this topic, you can check out the* [***AI Manual***](../EN/AI-manual-en.md), *which is written in English and provides a more detailed analysis.)*
 
 <small>Translated from the original Czech by ChatGPT.</small>  
 [<small>Other languages:</small>](../README.md#other-translations-of-the-beginners-guide)  

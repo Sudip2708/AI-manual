@@ -4,7 +4,7 @@
 
 AI arba dirbtinis intelektas (iš anglų kalbos „Artificial Intelligence“) yra santrumpa, kurią šiandien girdime vis dažniau. Bet ką tai iš tikrųjų reiškia? Jei dar daug nežinote apie dirbtinį intelektą, šios eilutės yra skirtos būtent jums.
 
-[ *Daugiau informacijos apie šią temą rasite pačiame* [***AI Manual***](../EN/AI-manual-en.md), *kuris parašytas anglų kalba ir pateikia išsamesnę tematikos analizę.* ]
+*(Daugiau informacijos apie šią temą rasite pačiame* [***AI Manual***](../EN/AI-manual-en.md), *kuris parašytas anglų kalba ir pateikia išsamesnę tematikos analizę.)*
 
 <small>Iš čekų kalbos išvertė ChatGPT.</small>  
 [<small>Kitos kalbos:</small>](../README.md#other-translations-of-the-beginners-guide)  

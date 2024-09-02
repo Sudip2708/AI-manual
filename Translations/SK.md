@@ -4,7 +4,7 @@
 
 AI, teda umelá inteligencia (z anglického "Artificial Intelligence"), je skratka, ktorú dnes počujeme stále častejšie. Ale čo vlastne znamená? Ak o umelej inteligencii zatiaľ veľa neviete, nasledujúce riadky sú určené práve vám.
 
-[ *Viac informácií na toto téma nájdete v samotnom* [***AI Manual***](../EN/AI-manual-en.md), *ktorý je písaný v angličtine a obsahuje podrobnejší rozbor témy.* ]
+*(Viac informácií na toto téma nájdete v samotnom* [***AI Manual***](../EN/AI-manual-en.md), *ktorý je písaný v angličtine a obsahuje podrobnejší rozbor témy.)*
 
 <small>Z českého originálu preložil ChatGPT.</small>  
 [<small>Ďalšie jazyky:</small>](../README.md#other-translations-of-the-beginners-guide)  

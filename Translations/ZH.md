@@ -4,7 +4,7 @@
 
 人工智能（AI，即“Artificial Intelligence”的缩写），是我们现在越来越频繁听到的一个术语。那么它究竟是什么意思呢？如果你对人工智能还不太了解，接下来的文字正适合你阅读。
 
-[ *更多信息请参阅* [***AI 手册***](../EN/AI-manual-en.md), *该手册用英语编写，并包含了更详细的主题分析。* ]
+*(更多信息请参阅* [***AI 手册***](../EN/AI-manual-en.md), *该手册用英语编写，并包含了更详细的主题分析。)*
 
 <small>由ChatGPT从捷克语原版翻译。</small>  
 [<small>更多语言：</small>](../README.md#other-translations-of-the-beginners-guide)  

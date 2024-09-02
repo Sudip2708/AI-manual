@@ -4,7 +4,7 @@
 
 AI, 즉 인공지능(영어로 "Artificial Intelligence"의 약자)은 요즘 점점 더 자주 듣게 되는 용어입니다. 하지만 그것이 정확히 무엇을 의미할까요? 인공지능에 대해 아직 많이 알지 못하는 분들을 위해 다음의 내용이 준비되었습니다.
 
-[ *이 주제에 대한 자세한 정보는 영어로 작성된* [***AI 매뉴얼***](../EN/AI-manual-en.md) *에서 확인하실 수 있습니다.* ]
+*(이 주제에 대한 자세한 정보는 영어로 작성된* [***AI 매뉴얼***](../EN/AI-manual-en.md) *에서 확인하실 수 있습니다.)*
 
 <small>체코어 원본에서 ChatGPT가 번역했습니다.</small>  
 [<small>다른 언어:</small>](../README.md#other-translations-of-the-beginners-guide)  

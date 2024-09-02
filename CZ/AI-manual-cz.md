@@ -3,9 +3,9 @@
 # Manuál pro AI
 
 
-[ *Pokud byste ocenili podrobnější úvod s více informacemi, který je koncipovaný tak, 
+*(Pokud byste ocenili podrobnější úvod s více informacemi, který je koncipovaný tak, 
 aby mu porozuměli i lidé, kteří o AI dosud nic neslyšeli, doporučuji si nejprve přečíst tento text:*
-[***Úvod do AI pro úplné začátečníky***](AI-manual-cz-beginners.md) ]
+[***Úvod do AI pro úplné začátečníky***](AI-manual-cz-beginners.md)*)*
 
 ---
 

@@ -4,7 +4,7 @@
 
 AI, atau kecerdasan buatan (dari bahasa Inggris "Artificial Intelligence"), adalah singkatan yang kini semakin sering kita dengar. Namun, apa sebenarnya artinya? Jika Anda belum banyak tahu tentang kecerdasan buatan, baris berikut ini ditujukan khusus untuk Anda.
 
-[ *Informasi lebih lanjut tentang topik ini dapat ditemukan di* [***Manual AI***](../EN/AI-manual-en.md), *yang ditulis dalam bahasa Inggris dan berisi penjelasan lebih mendetail mengenai topik tersebut.* ]
+*(Informasi lebih lanjut tentang topik ini dapat ditemukan di* [***Manual AI***](../EN/AI-manual-en.md), *yang ditulis dalam bahasa Inggris dan berisi penjelasan lebih mendetail mengenai topik tersebut.)*
 
 <small>Diterjemahkan dari aslinya bahasa Ceko oleh ChatGPT.</small>  
 [<small>Bahasa lain:</small>](../README.md#other-translations-of-the-beginners-guide)  

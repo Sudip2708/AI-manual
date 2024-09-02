@@ -6,8 +6,8 @@ AI, or Artificial Intelligence, is an acronym we hear more and more often these 
 But what does it actually mean? If you’re not very familiar with AI yet, 
 the following lines are just for you.
 
-[ *You can find more detailed information on this topic in the* [***AI Manual***](AI-manual-en.md), 
-*which is linked to this introduction and provides a more in-depth analysis.* ]
+*(You can find more detailed information on this topic in the* [***AI Manual***](AI-manual-en.md), 
+*which is linked to this introduction and provides a more in-depth analysis.)*
 
 <small>Translated from the Czech original by ChatGPT.</small>  
 [<small>Other languages:</small>](../README.md#other-translations-of-the-beginners-guide)  

@@ -4,7 +4,7 @@
 
 L-AI jew intelliġenza artifiċjali (minn "Artificial Intelligence" bl-Ingliż), hija akronimu li qed nisimgħu dejjem iktar spiss illum. Imma x'ifisser verament? Jekk ma tafx ħafna dwar l-intelliġenza artifiċjali, il-linji li ġejjin huma speċjalment għalik.
 
-[ *Aktar informazzjoni dwar dan is-suġġett tista' ssib fil* [***AI Manual***](../EN/AI-manual-en.md), *li huwa miktub bl-Ingliż u fih analisi aktar dettaljata tas-suġġett.* ]
+*(Aktar informazzjoni dwar dan is-suġġett tista' ssib fil* [***AI Manual***](../EN/AI-manual-en.md), *li huwa miktub bl-Ingliż u fih analisi aktar dettaljata tas-suġġett.)*
 
 <small>Tradott minn ChatGPT mill-origini Čeki.</small>  
 [<small>Lingwi oħra:</small>](../README.md#other-translations-of-the-beginners-guide)  

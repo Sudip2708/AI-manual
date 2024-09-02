@@ -4,7 +4,7 @@
 
 AI ili umjetna inteligencija (iz engleskog "Artificial Intelligence") je kratica koju danas sve češće čujemo. No što to zapravo znači? Ako još uvijek ne znate mnogo o umjetnoj inteligenciji, sljedeće retke smo pripremili upravo za vas.
 
-[ *Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/AI-manual-en.md), *koji je napisan na engleskom jeziku i sadrži detaljniju razradu teme.* ]
+*(Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/AI-manual-en.md), *koji je napisan na engleskom jeziku i sadrži detaljniju razradu teme.)*
 
 <small>Prevoditelj: ChatGPT.</small>  
 [<small>Ostali jezici:</small>](../README.md#other-translations-of-the-beginners-guide)  

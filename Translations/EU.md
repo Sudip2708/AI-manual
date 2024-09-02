@@ -4,7 +4,7 @@
 
 AI, edo adimen artifiziala (ingelesezko "Artificial Intelligence" hitzetik), gaur egun gero eta gehiagotan entzuten dugun laburdura da. Baina zer esan nahi du benetan? Adimen artifizialari buruz oraindik ez baduzu asko ezagutzen, hurrengo lerroak zuentzat dira.
 
-[ *Informazio gehiago gaiaz* [***AI Manual***](../EN/AI-manual-en.md) *ingelesez idatzita dago eta gaiaren xehetasun gehiagoren analisia eskaintzen du.* ]
+*(Informazio gehiago gaiaz* [***AI Manual***](../EN/AI-manual-en.md) *ingelesez idatzita dago eta gaiaren xehetasun gehiagoren analisia eskaintzen du.)*
 
 <small>Txekiar jatorrizkotik itzulia ChatGPT-k.</small>  
 [<small>Beste hizkuntzak:</small>](../README.md#other-translations-of-the-beginners-guide)  

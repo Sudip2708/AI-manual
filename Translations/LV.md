@@ -4,7 +4,7 @@
 
 AI jeb mākslīgā intelekts (no angļu valodas "Artificial Intelligence") ir saīsinājums, ko mūsdienās dzirdam arvien biežāk. Bet ko tas patiesībā nozīmē? Ja par mākslīgo intelektu vēl daudz nezini, nākamās rindkopas ir tieši tev.
 
-[ *Plašāku informāciju par šo tēmu atradīsi pašā* [***AI Manual***](../EN/AI-manual-en.md), *kas ir rakstīts angļu valodā un satur detalizētāku tēmas izklāstu.* ]
+*(Plašāku informāciju par šo tēmu atradīsi pašā* [***AI Manual***](../EN/AI-manual-en.md), *kas ir rakstīts angļu valodā un satur detalizētāku tēmas izklāstu.)*
 
 <small>No čehu oriģināla tulkojis ChatGPT.</small>  
 [<small>Citi valodas:</small>](../README.md#other-translations-of-the-beginners-guide)  

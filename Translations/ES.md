@@ -4,7 +4,7 @@
 
 IA, o inteligencia artificial (del inglés "Artificial Intelligence"), es un término que escuchamos cada vez con más frecuencia. ¿Pero qué significa realmente? Si no sabes mucho sobre inteligencia artificial, las siguientes líneas están dirigidas especialmente para ti.
 
-[ *Más información sobre este tema la encontrarás en el* [***Manual de IA***](../EN/AI-manual-en.md), *que está escrito en inglés y contiene un análisis más detallado del tema.* ]
+*(Más información sobre este tema la encontrarás en el* [***Manual de IA***](../EN/AI-manual-en.md), *que está escrito en inglés y contiene un análisis más detallado del tema.)*
 
 <small>Traducido del original checo por ChatGPT.</small>  
 [<small>Otros idiomas:</small>](../README.md#other-translations-of-the-beginners-guide)  

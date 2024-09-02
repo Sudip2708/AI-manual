@@ -4,7 +4,7 @@
 
 La IA, o intel·ligència artificial (de l'anglès "Artificial Intelligence"), és una abreviatura que avui en dia escoltem cada cop més sovint. Però què significa realment? Si encara no sabeu gaire sobre intel·ligència artificial, les línies següents són per a vosaltres.
 
-[ *Podeu trobar més informació sobre aquest tema en el mateix* [***Manual d'IA***](../EN/AI-manual-en.md), *que està escrit en anglès i conté una anàlisi més detallada del tema.* ]
+*(Podeu trobar més informació sobre aquest tema en el mateix* [***Manual d'IA***](../EN/AI-manual-en.md), *que està escrit en anglès i conté una anàlisi més detallada del tema.)*
 
 <small>Traduït del text original en txec per ChatGPT.</small>  
 [<small>Altres idiomes:</small>](../README.md#other-translations-of-the-beginners-guide)  

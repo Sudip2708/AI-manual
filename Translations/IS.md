@@ -4,7 +4,7 @@
 
 AI eða gervigreind (frá enska orðinu "Artificial Intelligence") er skammstöfun sem við heyrum sífellt oftar nú til dags. En hvað þýðir það í raun? Ef þú veist ekki mikið um gervigreind ennþá, þá eru eftirfarandi línur sérstaklega fyrir þig.
 
-[ *Fleiri upplýsingar um þetta efni finnur þú í sjálfu* [***AI Manual***](../EN/AI-manual-en.md), *sem er skrifað á ensku og inniheldur ítarlegri úttekt á málefninu.* ]
+*(Fleiri upplýsingar um þetta efni finnur þú í sjálfu* [***AI Manual***](../EN/AI-manual-en.md), *sem er skrifað á ensku og inniheldur ítarlegri úttekt á málefninu.)*
 
 <small>Frá íslensku upprunanum þýtt af ChatGPT.</small>  
 [<small>Önnur tungumál:</small>](../README.md#other-translations-of-the-beginners-guide)  

@@ -4,7 +4,7 @@
 
 Tá AI, nó intleacht shaorga (ó "Artificial Intelligence" i mBéarla), ina ghiorrúchán a chloistear níos minice le déanaí. Ach cad a chiallaíonn sé go díreach? Má tá tú fós ag foghlaim faoi intleacht shaorga, tá na línte seo dírithe ort.
 
-[ *Tuilleadh eolais ar an ábhar seo a fháil sa* [***AI Manual***](../EN/AI-manual-en.md), *atá scríofa i mBéarla agus atá níos mionsonraithe ar an ábhar.* ]
+*(Tuilleadh eolais ar an ábhar seo a fháil sa* [***AI Manual***](../EN/AI-manual-en.md), *atá scríofa i mBéarla agus atá níos mionsonraithe ar an ábhar.)*
 
 <small>Ón téacs bunaidh i gCzech, a aistríodh ag ChatGPT.</small>  
 [<small>Teangacha eile:</small>](../README.md#other-translations-of-the-beginners-guide)  

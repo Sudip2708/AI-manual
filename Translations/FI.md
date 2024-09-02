@@ -4,7 +4,7 @@
 
 AI eli tekoäly (englanniksi "Artificial Intelligence") on lyhenne, jota kuulemme tänä päivänä yhä useammin. Mutta mitä se itse asiassa tarkoittaa? Jos et vielä tiedä paljon tekoälystä, seuraavat rivit ovat juuri sinulle.
 
-[ *Lisätietoja tästä aiheesta löydät itse* [***AI Manual***](../EN/AI-manual-en.md), *joka on kirjoitettu englanniksi ja sisältää tarkempaa käsittelyä aiheesta.* ]
+*(Lisätietoja tästä aiheesta löydät itse* [***AI Manual***](../EN/AI-manual-en.md), *joka on kirjoitettu englanniksi ja sisältää tarkempaa käsittelyä aiheesta.)*
 
 <small>Käännetty tšekinkielisestä alkuperäisestä ChatGPT.</small>  
 [<small>Muilla kielillä:</small>](../README.md#other-translations-of-the-beginners-guide)  
