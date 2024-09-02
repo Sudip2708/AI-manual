@@ -10,7 +10,6 @@
 
 <small>ترجمة من النسخة التشيكية بواسطة ChatGPT.</small>  
 [<small>اللغات الأخرى:</small>](../README.md#other-translations-of-the-beginners-guide)  
-[<small>اللغات الأخرى:</small>](../README.md#the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

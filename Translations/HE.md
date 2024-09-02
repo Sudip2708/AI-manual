@@ -9,7 +9,7 @@ AI, או אינטליגנציה מלאכותית (מהמונח באנגלית "A
 [ *מידע נוסף על נושא זה תמצאו במדריך* [***AI Manual***](../EN/Manual_for_AI.md), *הכתוב באנגלית ומכיל ניתוח מעמיק יותר של הנושא.* ]
 
 <small>מתורגם מהמקור הצ'כי על ידי ChatGPT.</small>  
-[<small>שפות נוספות:</small>](../README.md)
+[<small>שפות נוספות:</small>](../README.md#other-translations-of-the-beginners-guide)
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

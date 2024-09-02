@@ -7,7 +7,7 @@ La IA, o intel·ligència artificial (de l'anglès "Artificial Intelligence"), �
 [ *Podeu trobar més informació sobre aquest tema en el mateix* [***Manual d'IA***](../EN/AI-manual-en.md), *que està escrit en anglès i conté una anàlisi més detallada del tema.* ]
 
 <small>Traduït del text original en txec per ChatGPT.</small>  
-[<small>Altres idiomes:</small>](../README.md)  
+[<small>Altres idiomes:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

@@ -7,7 +7,7 @@ KI, oder künstliche Intelligenz (von englisch "Artificial Intelligence"), ist e
 [ *Weitere Informationen zu diesem Thema finden Sie im* [***KI-Handbuch***](../EN/AI-manual-en.md), *das auf Englisch verfasst ist und eine detailliertere Analyse des Themas enthält.* ]
 
 <small>Aus dem tschechischen Original übersetzt von ChatGPT.</small>  
-[<small>Weitere Sprachen:</small>](../README.md)  
+[<small>Weitere Sprachen:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

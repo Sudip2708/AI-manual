@@ -7,7 +7,7 @@ AI ehk tehisintellekt (ingliskeelsest "Artificial Intelligence") on lühend, mid
 [ *Rohkem teavet selle teema kohta leiate* [***AI Manual***](../EN/AI-manual-en.md), *mis on kirjutatud inglise keeles ja sisaldab üksikasjalikumat teavet.* ]
 
 <small>Tõlkinud ChatGPT.</small>  
-[<small>Muud keeled:</small>](../README.md)  
+[<small>Muud keeled:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

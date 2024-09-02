@@ -10,7 +10,7 @@ the following lines are just for you.
 *which is linked to this introduction and provides a more in-depth analysis.* ]
 
 <small>Translated from the Czech original by ChatGPT.</small>  
-[<small>Other languages:</small>](../README.md)  
+[<small>Other languages:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

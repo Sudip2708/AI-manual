@@ -7,7 +7,7 @@ AI, czyli sztuczna inteligencja (z angielskiego "Artificial Intelligence"), to s
 [ *Więcej informacji na ten temat znajdziesz w samym* [***AI Manual***](../EN/AI-manual-en.md), *który jest napisany po angielsku i zawiera bardziej szczegółową analizę tematu.* ]
 
 <small>Przetłumaczone z oryginału czeskiego przez ChatGPT.</small>  
-[<small>Inne języki:</small>](../README.md)  
+[<small>Inne języki:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

@@ -7,7 +7,7 @@ AI eli tekoäly (englanniksi "Artificial Intelligence") on lyhenne, jota kuulemm
 [ *Lisätietoja tästä aiheesta löydät itse* [***AI Manual***](../EN/AI-manual-en.md), *joka on kirjoitettu englanniksi ja sisältää tarkempaa käsittelyä aiheesta.* ]
 
 <small>Käännetty tšekinkielisestä alkuperäisestä ChatGPT.</small>  
-[<small>Muilla kielillä:</small>](../README.md)  
+[<small>Muilla kielillä:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

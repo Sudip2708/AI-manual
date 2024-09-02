@@ -7,7 +7,7 @@
 [ *Больше информации по этой теме вы найдете в самом* [***AI Manual***](../EN/AI-manual-en.md), *который написан на английском языке и содержит более подробный анализ темы.* ]
 
 <small>Переведено с чешского оригинала ChatGPT.</small>  
-[<small>Другие языки:</small>](../README.md)  
+[<small>Другие языки:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

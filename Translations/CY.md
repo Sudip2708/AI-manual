@@ -7,7 +7,7 @@ AI, neu deallusrwydd artiffisial (o'r Saesneg "Artificial Intelligence"), yw'r b
 [ *Bydd mwy o wybodaeth ar y pwnc hwn yn cael ei ddod o hyd yn* [***AI Manual***](../EN/AI-manual-en.md), *sy'n cael ei ysgrifennu yn Saesneg ac yn cynnwys dadansoddiad manwl o'r pwnc.* ]
 
 <small>Cyfieithwyd o'r fersiwn Gaseg gan ChatGPT.</small>  
-[<small>Ieithoedd eraill:</small>](../README.md)  
+[<small>Ieithoedd eraill:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

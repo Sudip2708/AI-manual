@@ -7,7 +7,7 @@ AI ili veštačka inteligencija (od engleskog "Artificial Intelligence") je skra
 [ *Više informacija o ovoj temi možete pronaći u samom* [***AI Manual***](../EN/AI-manual-en.md), *koji je napisan na engleskom i sadrži detaljniju analizu teme.* ]
 
 <small>Iz češkog originala preveo ChatGPT.</small>  
-[<small>Ostali jezici:</small>](../README.md)  
+[<small>Ostali jezici:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

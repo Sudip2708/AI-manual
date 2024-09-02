@@ -7,7 +7,7 @@ AI или вештачка интелигенција (од англиски „
 [ *Повеќе информации за оваа тема можете да најдете во самото* [***AI Manual***](../EN/AI-manual-en.md), *кој е напишан на англиски јазик и содржи подетален разглед на темата.* ]
 
 <small>Преведено од чешкиот оригинал од ChatGPT.</small>  
-[<small>Други јазици:</small>](../README.md)  
+[<small>Други јазици:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

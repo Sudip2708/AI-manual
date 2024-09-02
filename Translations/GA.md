@@ -7,7 +7,7 @@ Tá AI, nó intleacht shaorga (ó "Artificial Intelligence" i mBéarla), ina ghi
 [ *Tuilleadh eolais ar an ábhar seo a fháil sa* [***AI Manual***](../EN/AI-manual-en.md), *atá scríofa i mBéarla agus atá níos mionsonraithe ar an ábhar.* ]
 
 <small>Ón téacs bunaidh i gCzech, a aistríodh ag ChatGPT.</small>  
-[<small>Teangacha eile:</small>](../README.md)  
+[<small>Teangacha eile:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

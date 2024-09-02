@@ -7,7 +7,7 @@ AI, ose Inteligjenca Artificiale (nga anglishtja "Artificial Intelligence"), ës
 [ *Më shumë informacion në lidhje me këtë temë mund të gjeni në* [***Manuali i AI***](../EN/AI-manual-en.md), *i cili është shkruar në anglisht dhe përmban një analizë më të hollësishme të temës.* ]
 
 <small>Prekë nga origjinali në çekisht nga ChatGPT.</small>  
-[<small>Gjuha të tjera:</small>](../README.md)  
+[<small>Gjuha të tjera:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)

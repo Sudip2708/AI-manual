@@ -7,7 +7,7 @@ Umetna inteligenca (v angleščini "Artificial Intelligence" ali AI) je kratica,
 [ *Več informacij na to temo boste našli v samem* [***AI Manual***](../EN/AI-manual-en.md), *ki je napisan v angleščini in vsebuje podrobnejšo obravnavo teme.* ]
 
 <small>Iz češkega izvirnika prevedel ChatGPT.</small>  
-[<small>Drugi jeziki:</small>](../README.md)  
+[<small>Drugi jeziki:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

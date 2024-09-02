@@ -7,7 +7,7 @@ L-AI jew intelliġenza artifiċjali (minn "Artificial Intelligence" bl-Ingliż),
 [ *Aktar informazzjoni dwar dan is-suġġett tista' ssib fil* [***AI Manual***](../EN/AI-manual-en.md), *li huwa miktub bl-Ingliż u fih analisi aktar dettaljata tas-suġġett.* ]
 
 <small>Tradott minn ChatGPT mill-origini Čeki.</small>  
-[<small>Lingwi oħra:</small>](../README.md)  
+[<small>Lingwi oħra:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

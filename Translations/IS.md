@@ -7,7 +7,7 @@ AI eða gervigreind (frá enska orðinu "Artificial Intelligence") er skammstöf
 [ *Fleiri upplýsingar um þetta efni finnur þú í sjálfu* [***AI Manual***](../EN/AI-manual-en.md), *sem er skrifað á ensku og inniheldur ítarlegri úttekt á málefninu.* ]
 
 <small>Frá íslensku upprunanum þýtt af ChatGPT.</small>  
-[<small>Önnur tungumál:</small>](../README.md)  
+[<small>Önnur tungumál:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

@@ -7,7 +7,7 @@ AI, teda umelá inteligencia (z anglického "Artificial Intelligence"), je skrat
 [ *Viac informácií na toto téma nájdete v samotnom* [***AI Manual***](../EN/AI-manual-en.md), *ktorý je písaný v angličtine a obsahuje podrobnejší rozbor témy.* ]
 
 <small>Z českého originálu preložil ChatGPT.</small>  
-[<small>Ďalšie jazyky:</small>](../README.md)  
+[<small>Ďalšie jazyky:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

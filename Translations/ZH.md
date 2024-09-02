@@ -7,7 +7,7 @@
 [ *更多信息请参阅* [***AI 手册***](../EN/AI-manual-en.md), *该手册用英语编写，并包含了更详细的主题分析。* ]
 
 <small>由ChatGPT从捷克语原版翻译。</small>  
-[<small>更多语言：</small>](../README.md)  
+[<small>更多语言：</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

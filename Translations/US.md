@@ -7,7 +7,7 @@ AI, or Artificial Intelligence, is a term we hear more and more often these days
 [ *For more information on this topic, you can check out the* [***AI Manual***](../EN/AI-manual-en.md), *which is written in English and provides a more detailed analysis.* ]
 
 <small>Translated from the original Czech by ChatGPT.</small>  
-[<small>Other languages:</small>](../README.md)  
+[<small>Other languages:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

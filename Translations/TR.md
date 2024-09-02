@@ -7,7 +7,7 @@ Yapay Zeka (İngilizce "Artificial Intelligence" teriminden kısaltma), günüm�
 [ *Bu konu hakkında daha fazla bilgiyi* [***AI Kılavuzu***](../EN/AI-manual-en.md) *adlı İngilizce yazılmış ve konuyu daha ayrıntılı ele alan belgede bulabilirsiniz.* ]
 
 <small>Çekçe orijinalinden ChatGPT tarafından çevrilmiştir.</small>  
-[<small>Diğer diller:</small>](../README.md)  
+[<small>Diğer diller:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

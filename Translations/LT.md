@@ -7,7 +7,7 @@ AI arba dirbtinis intelektas (iš anglų kalbos „Artificial Intelligence“) y
 [ *Daugiau informacijos apie šią temą rasite pačiame* [***AI Manual***](../EN/AI-manual-en.md), *kuris parašytas anglų kalba ir pateikia išsamesnę tematikos analizę.* ]
 
 <small>Iš čekų kalbos išvertė ChatGPT.</small>  
-[<small>Kitos kalbos:</small>](../README.md)  
+[<small>Kitos kalbos:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

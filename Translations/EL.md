@@ -7,7 +7,7 @@
 [ *Περισσότερες πληροφορίες για το θέμα μπορείτε να βρείτε στο* [***AI Manual***](../EN/AI-manual-en.md), *που είναι γραμμένο στα αγγλικά και περιλαμβάνει μια πιο αναλυτική ανάλυση του θέματος.* ]
 
 <small>Μετάφραση από το πρωτότυπο στα Τσεχικά από το ChatGPT.</small>  
-[<small>Άλλες γλώσσες:</small>](../README.md)  
+[<small>Άλλες γλώσσες:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

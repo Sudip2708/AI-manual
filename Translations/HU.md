@@ -7,7 +7,7 @@ Az AI, azaz mesterséges intelligencia (angolul "Artificial Intelligence"), egy 
 [ *További információkat erről a témáról az angol nyelvű* [***AI Manual***](../EN/AI-manual-en.md) *kézikönyvben talál, amely részletesebb elemzést tartalmaz a témáról.* ]
 
 <small>A cseh eredetiből fordította ChatGPT.</small>  
-[<small>További nyelvek:</small>](../README.md)  
+[<small>További nyelvek:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

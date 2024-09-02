@@ -7,7 +7,7 @@ AI, ანუ ხელოვნური ინტელექტი (ინგ
 [ *ამ თემაზე დამატებითი ინფორმაცია შეგიძლიათ მოიძიოთ *[***AI სახელმძღვანელო***](../EN/AI-manual-en.md), *რომელიც ინგლისურ ენაზეა დაწერილი და მოიცავს თემის დეტალურ განხილვას.* ]
 
 <small>ჩეხური ორიგინალიდან თარგმნილი ChatGPT-ის მიერ.</small>  
-[<small>სხვა ენები:</small>](../README.md)  
+[<small>სხვა ენები:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

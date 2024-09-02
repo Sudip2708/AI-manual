@@ -7,7 +7,7 @@ AI, atau kecerdasan buatan (dari bahasa Inggris "Artificial Intelligence"), adal
 [ *Informasi lebih lanjut tentang topik ini dapat ditemukan di* [***Manual AI***](../EN/AI-manual-en.md), *yang ditulis dalam bahasa Inggris dan berisi penjelasan lebih mendetail mengenai topik tersebut.* ]
 
 <small>Diterjemahkan dari aslinya bahasa Ceko oleh ChatGPT.</small>  
-[<small>Bahasa lain:</small>](../README.md)  
+[<small>Bahasa lain:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

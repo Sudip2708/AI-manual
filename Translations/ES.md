@@ -7,7 +7,7 @@ IA, o inteligencia artificial (del inglés "Artificial Intelligence"), es un té
 [ *Más información sobre este tema la encontrarás en el* [***Manual de IA***](../EN/AI-manual-en.md), *que está escrito en inglés y contiene un análisis más detallado del tema.* ]
 
 <small>Traducido del original checo por ChatGPT.</small>  
-[<small>Otros idiomas:</small>](../README.md)  
+[<small>Otros idiomas:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

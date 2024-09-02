@@ -7,7 +7,7 @@ AI, или изкуствен интелект (от английски "Artific
 [ *Повече информация по тази тема ще намерите в самия* [***AI Manual***](../EN/AI-manual-en.md), *който е написан на английски и съдържа по-подробен анализ на темата.* ]
 
 <small>Преведено от чешкия оригинал от ChatGPT.</small>  
-[<small>Други езици:</small>](../README.md)  
+[<small>Други езици:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

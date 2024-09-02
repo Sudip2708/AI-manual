@@ -7,7 +7,7 @@ L'IA, ou intelligence artificielle (de l'anglais "Artificial Intelligence"), est
 [ *Pour plus d'informations sur le sujet, vous pouvez consulter le* [***AI Manual***](../EN/AI-manual-en.md), *qui est écrit en anglais et fournit une analyse plus détaillée du sujet.* ]
 
 <small>Traduit de l'original tchèque par ChatGPT.</small>  
-[<small>Autres langues:</small>](../README.md)  
+[<small>Autres langues:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

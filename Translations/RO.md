@@ -7,7 +7,7 @@ AI sau inteligența artificială (din engleză "Artificial Intelligence") este o
 [*Mai multe informații pe acest subiect găsiți în* [***Manualul AI***](../EN/AI-manual-en.md), *care este scris în engleză și conține o analiză mai detaliată a subiectului.*]
 
 <small>Tradus din originalul ceh de ChatGPT.</small>  
-[<small>Alte limbi:</small>](../README.md)  
+[<small>Alte limbi:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

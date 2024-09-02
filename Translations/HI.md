@@ -7,7 +7,7 @@
 [ *इस विषय पर अधिक जानकारी आपको* [***AI Manual***](../EN/AI-manual-en.md) *में मिलेगी, जो अंग्रेजी में लिखा गया है और विषय का विस्तृत विश्लेषण प्रस्तुत करता है।* ]
 
 <small>चेक मूल से अनुवादित ChatGPT द्वारा।</small>  
-[<small>अन्य भाषाएँ:</small>](../README.md)  
+[<small>अन्य भाषाएँ:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

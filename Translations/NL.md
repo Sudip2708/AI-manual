@@ -7,7 +7,7 @@ AI, oftewel kunstmatige intelligentie (van het Engelse "Artificial Intelligence"
 [ *Meer informatie over dit onderwerp vind je in de* [***AI Manual***](../EN/AI-manual-en.md), *dat in het Engels is geschreven en een gedetailleerdere analyse van het onderwerp bevat.* ]
 
 <small>Vertaald uit het Tsjechisch door ChatGPT.</small>  
-[<small>Andere talen:</small>](../README.md)  
+[<small>Andere talen:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

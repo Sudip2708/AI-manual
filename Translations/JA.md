@@ -7,7 +7,7 @@ AI、すなわち人工知能（英語で「Artificial Intelligence」）は、�
 [ *このテーマについての詳細は、英語で書かれた* [***AIマニュアル***](../EN/AI-manual-en.md) *をご覧ください。ここにはトピックの詳細な分析が含まれています。* ]
 
 <small>チェコ語の原本からChatGPTによって翻訳されました。</small>  
-[<small>他の言語:</small>](../README.md)  
+[<small>他の言語:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

@@ -7,7 +7,7 @@ AI, eller kunstig intelligens (fra engelsk "Artificial Intelligence"), er en for
 [ *Yderligere oplysninger om emnet kan findes i selve* [***AI Manual***](../EN/AI-manual-en.md), *som er skrevet på engelsk og indeholder en mere detaljeret gennemgang af emnet.* ]
 
 <small>Oversat fra den tjekkiske original af ChatGPT.</small>  
-[<small>Andre sprog:</small>](../README.md)  
+[<small>Andre sprog:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)

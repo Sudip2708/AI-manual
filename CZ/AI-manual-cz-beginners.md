@@ -9,7 +9,7 @@ Ale co vlastně znamená? Pokud o umělé inteligenci zatím mnoho nevíte, nás
 [ *Více informací na toto téma pak najdete v samotném* [***Manuálu pro AI***](AI-manual-cz.md), 
 *který je propojený s tímto úvodem a obsahuje podrobnější rozbor tématu.* ]
 
-[<small>Ostatní jazyky:</small>](../README.md)  
+[<small>Ostatní jazyky:</small>](../README.md#other-translations-of-the-beginners-guide)  
 <small>(Z českého originálu přeložil CHatGPT)</small>
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)

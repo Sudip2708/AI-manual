@@ -7,7 +7,7 @@ AI-ն կամ արհեստական ինտելեկտը (անգլերենից՝ "Ar
 [ *Այլ տեղեկություններ այս թեմայի վերաբերյալ կարող եք գտնել հենց* [***AI Manual***](../EN/AI-manual-en.md), *որն անգլերենով է և ավելի մանրամասն քննարկում է թեման:* ]
 
 <small>Չեխական բնօրինակից թարգմանեց ChatGPT:</small>  
-[<small>Այլ լեզուներ:</small>](../README.md)  
+[<small>Այլ լեզուներ:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)

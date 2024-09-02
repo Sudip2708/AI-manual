@@ -7,7 +7,7 @@ AI jeb mākslīgā intelekts (no angļu valodas "Artificial Intelligence") ir sa
 [ *Plašāku informāciju par šo tēmu atradīsi pašā* [***AI Manual***](../EN/AI-manual-en.md), *kas ir rakstīts angļu valodā un satur detalizētāku tēmas izklāstu.* ]
 
 <small>No čehu oriģināla tulkojis ChatGPT.</small>  
-[<small>Citi valodas:</small>](../README.md)  
+[<small>Citi valodas:</small>](../README.md#other-translations-of-the-beginners-guide)  
 
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
