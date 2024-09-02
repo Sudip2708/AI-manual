@@ -1,8 +1,6 @@
-<div style="text-align: right;">
-  <img src="../Pictures/Translations/AR.jpg" alt="Main Image">
-</div>
-
 <div dir="rtl">
+
+<img src="../Pictures/Translations/AR.jpg" alt="Main Image">
 
 ## مقدمة في الذكاء الاصطناعي للمبتدئين 
 

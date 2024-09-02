@@ -1,8 +1,6 @@
-<div style="text-align: right;">
-  <img src="../Pictures/Translations/HE.jpg" alt="Main Image">
-</div>
-
 <div dir="rtl">
+
+<img src="../Pictures/Translations/HE.jpg" alt="Main Image">
 
 ## מבוא ל-AI למתחילים
 
