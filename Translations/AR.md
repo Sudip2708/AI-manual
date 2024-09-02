@@ -1,4 +1,7 @@
-![Main Image](../Pictures/Translations/AR.jpg)
+<div style="text-align: right;">
+  <img src="../Pictures/Translations/AR.jpg" alt="Main Image">
+</div>
+
 <div dir="rtl">
 
 ## مقدمة في الذكاء الاصطناعي للمبتدئين 
@@ -9,6 +12,7 @@
 
 <small>ترجمة من النسخة التشيكية بواسطة ChatGPT.</small>  
 [<small>اللغات الأخرى:</small>](../README.md)  
+
 [<img src="../Pictures/Flags/SQ.png" alt="Albanian Flag" style="height: 20px;">](../Translations/SQ.md)
 [<img src="../Pictures/Flags/HY.png" alt="Armenian Flag" style="height: 20px;">](../Translations/HY.md)
 [<img src="../Pictures/Flags/EU.png" alt="Basque Flag" style="height: 20px;">](../Translations/EU.md)
@@ -25,6 +29,7 @@
 [<img src="../Pictures/Flags/KA.png" alt="Georgian Flag" style="height: 20px;">](../Translations/KA.md)
 [<img src="../Pictures/Flags/DE.png" alt="German Flag" style="height: 20px;">](../Translations/DE.md)
 [<img src="../Pictures/Flags/EL.png" alt="Greek Flag" style="height: 20px;">](../Translations/EL.md)
+[<img src="../Pictures/Flags/HE.png" alt="Israel Flag" style="height: 20px;">](../Translations/HE.md)
 [<img src="../Pictures/Flags/HU.png" alt="Hungarian Flag" style="height: 20px;">](../Translations/HU.md)
 [<img src="../Pictures/Flags/GA.png" alt="Irish Flag" style="height: 20px;">](../Translations/GA.md)
 [<img src="../Pictures/Flags/IS.png" alt="Icelandic Flag" style="height: 20px;">](../Translations/IS.md)
@@ -47,6 +52,7 @@
 [<img src="../Pictures/Flags/UK.png" alt="Ukrainian Flag" style="height: 20px;">](../Translations/UK.md)
 [<img src="../Pictures/Flags/CY.png" alt="Welsh Flag" style="height: 20px;">](../Translations/CY.md)
 [<img src="../Pictures/Flags/US.png" alt="US Flag" style="height: 20px;">](../Translations/US.md)
+[<img src="../Pictures/Flags/BN.png" alt="Bangladesh Flag" style="height: 20px;">](../Translations/BN.md)
 [<img src="../Pictures/Flags/ZH.png" alt="Chinese Flag" style="height: 20px;">](../Translations/ZH.md)
 [<img src="../Pictures/Flags/HI.png" alt="Hindi Flag" style="height: 20px;">](../Translations/HI.md)
 [<img src="../Pictures/Flags/ID.png" alt="Indonesian Flag" style="height: 20px;">](../Translations/ID.md)

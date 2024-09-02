@@ -95,6 +95,9 @@ so you have the opportunity to assess how well ChatGPT handles your native langu
 [<img src="Pictures/Flags/EL.png" alt="Greek Flag" style="height: 20px;">](Translations/EL.md)
 [**EL** / **Greek** / **Ελληνικά**](Translations/EL.md)
 
+[<img src="Pictures/Flags/HE.png" alt="Israel Flag" style="height: 20px;">](Translations/HE.md)
+[**HE** / **Hebrew** / **עברית**](Translations/HE.md)
+
 [<img src="Pictures/Flags/HU.png" alt="Hungarian Flag" style="height: 20px;">](Translations/HU.md)
 [**HU** / **Hungarian** / **Magyar**](Translations/HU.md)
 
@@ -163,6 +166,9 @@ so you have the opportunity to assess how well ChatGPT handles your native langu
 
 [<img src="Pictures/Flags/AR.png" alt="Arabic Flag" style="height: 20px;">](Translations/AR.md)
 [**AR** / **Arabic** / **العربية**](Translations/AR.md)
+
+[<img src="Pictures/Flags/BN.png" alt="Bangladesh Flag" style="height: 20px;">](Translations/BN.md)
+[**BN** / **Bengali** / **हবাংলা**](Translations/BN.md)
 
 [<img src="Pictures/Flags/ZH.png" alt="Chinese Flag" style="height: 20px;">](Translations/ZH.md)
 [**ZH** / **Chinese** / **中文**](Translations/ZH.md)

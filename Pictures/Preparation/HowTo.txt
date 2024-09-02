@@ -1,0 +1,4 @@
+1) Add the text "for beginners" in the specified language.
+2) Save the image as JPG with quality level 8 (high).
+3) Open the saved image and change the resolution from 300 dpi to 72 dpi.
+4) Save the image.

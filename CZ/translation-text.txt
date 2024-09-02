@@ -29,6 +29,7 @@ Lotyština,
 Estonština,
 Maltština,
 Albánština,
+Hebrejština,
 Hindština,
 Irština,
 Velština,
@@ -42,12 +43,13 @@ Katalánština,
 Baskičtina,
 Slovinština,
 Rumunština,
-USAčtina.
+USAčtina,
+Bengálština
 
 
 ####################################################
 Ahojky, pracujeme spolu na překladech námi vytvořeného manuálu pro používání AI pro začátečníky a nyní pracujeme na překladech do jiných jazyků.
-Prosím tedy přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím tedy přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 1/13:
@@ -82,7 +84,7 @@ AI neboli umělá inteligence (z anglického "Artificial Intelligence"), je zkra
 
 26
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 2/13:
@@ -113,7 +115,7 @@ A pokud by takový vysavač sdílel svá data s ostatními vysavači přes centr
 
 26
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 3/13:
@@ -139,7 +141,7 @@ A jak tomu všemu můžete pomoci i vy? Třeba tím, že se začnete alespoň tr
 
 52
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 4/13:
@@ -169,7 +171,7 @@ S AI tedy nejen získáváte kuchařku, která nejenže má přehled o všech mo
 
 70
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 5/13:
@@ -189,7 +191,7 @@ AI tak můžeme vnímat i jako počítač kosmické lodi a užít si tak to, co 
 
 93
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 6/13:
@@ -219,7 +221,7 @@ Lepším přístupem je tedy zakládat pro každý den nebo pro každou novou ob
 
 105
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 7/13:
@@ -251,7 +253,7 @@ AI se tak neustále vyvíjí a zlepšuje díky kombinaci předchozího tréninku
 
 127
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 8/13:
@@ -295,7 +297,7 @@ Další dobrou praxí je poskytovat AI zpětnou vazbu o tom, jak jste spokojený
 
 149
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 9/13:
@@ -339,7 +341,7 @@ Jeho největším mínusem je, že nemá variantu, která by byla nabízena zcel
 
 185
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 10/13:
@@ -397,7 +399,7 @@ Jsem zde, abych pomáhal a spolupracoval, nikoli abych nahrazoval lidské schopn
 ####################################################
 !!!!Změnit češtinu na jiný jazyk!!!!
 
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 11/13:
@@ -409,8 +411,8 @@ A teď se konečně dostáváme k tomu nejdůležitějšímu – co všechno lze
 **Osobní vzdělávání**
 V první řadě bych chtěl vyzdvihnout roli AI jako prostředníka osobního vzdělávání. To je to, čeho si momentálně cením nejvíc – díky jejím radám se profesně posouvám a rostu. Navíc v AI vidím i budoucnost personalizovaného učení, kde se děti budou rozvíjet a učit především podle toho, v čem jsou dobré a co je zajímá. A to nejen děti, ale i dospělí po celém světě. V učení za pomoci AI vidím prostředek, jak srovnat rozdíly ve vědomostech mezi chudšími a bohatšími částmi světa. AI se tak stává plnohodnotným nástrojem pro osobní rozvoj.
 
-**AI jako korektor angličtiny, tlumočník a překladač**
-Ai a obzvláště ChatGPT má velmi dobré porozumění angličtině (alespoň z pohledu dyslektika). Na jednu stranu je mu jedno, zda se vy dopouštíte v dotazech pravopisných chyb, protože se soustředí hlavně na obsah. Na druhou stranu vám nabízí možnost nechat si zkontrolovat vámi vytvořené texty, a to nejen gramatiku, ale i stylistiku pro lepší čitelnost. Na podobné úrovni je schopný porozumět i ostatním jazykům, a je tak ideálním nástrojem k překladům textů. Zde, dle mého, vrací velmi kvalitní výsledek. A díky schopnosti porozumět i mluvenému slovu, je možné ho v mobilu použít i jako tlumočníka.
+**AI jako korektor bengálštiny, tlumočník a překladač**
+Ai a obzvláště ChatGPT má velmi dobré porozumění bengálštině (alespoň z pohledu dyslektika). Na jednu stranu je mu jedno, zda se vy dopouštíte v dotazech pravopisných chyb, protože se soustředí hlavně na obsah. Na druhou stranu vám nabízí možnost nechat si zkontrolovat vámi vytvořené texty, a to nejen gramatiku, ale i stylistiku pro lepší čitelnost. Na podobné úrovni je schopný porozumět i ostatním jazykům, a je tak ideálním nástrojem k překladům textů. Zde, dle mého, vrací velmi kvalitní výsledek. A díky schopnosti porozumět i mluvenému slovu, je možné ho v mobilu použít i jako tlumočníka.
 
 **Vytváření dokumentů**
 Dále bych rád zmínil schopnost AI automatizovat nudné úkony. Pokud potřebujete napsat nějaký oficiální dopis, stačí uvést vše, co tam chcete mít, a jak by měl dopis vypadat, a je to hotové. A pokud nejste s výsledkem spokojeni, můžete uvést, co se vám nelíbí, a nechat to upravit. AI také může pomoci s analýzou a zpracováním dat, generováním reportů nebo automatizací dalších administrativních úkolů. Můžete jí předat dlouhý text a nechat si vytáhnout jen ty části, které vás zajímají a jsou podstatné.
@@ -439,7 +441,7 @@ Některé AI dnes již plní roli osobního asistenta, který hlídá důležit�
 
 269
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 12/13:
@@ -472,7 +474,7 @@ Nebojte se tedy AI – není to bubák, ale nástroj pro rozvoj a zlepšení nej
 
 304
 ####################################################
-Prosím přelož mi následující text do rumunského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
+Prosím přelož mi následující text do bengálského  jazyka a snaž se při tom co nejvíce zachovat smysluplnost vůči tématu.
 Vrať mi pouze přeložený text, tak abych ho mohl rovnou použít v mém MD souboru.
 
 Zde je část 13/13:
@@ -558,3 +560,13 @@ Zde je část 13/13:
 
 329
 406
+
+Po překladu:
+1) Zkontrolovat zda je přeložen odkaz na obsah
+2) Dodat 2 mezery za ** v podnadpisech
+3) Přidat hlavní obrázek
+    a) uložit do jpg v daném rozličení na vysokou kvalitu (nejnižší - střední - vysoká - nejvyšší)
+    b) Znovu otevřít jpg, změnit rozličení z 300 dpi na 72 pdi, uložit
+4) Zkontrolovat zda mezery před --- odpovídají těmto číslům:
+    11, 28, 52, 70, 93, 105, 127, 149, 185, 221, 269, 304, 314, 330, 408
+    pokud ne, zkontrolovat kde je nepřesnost a opravit
